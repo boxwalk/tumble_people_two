@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: a6f69a31698598b44a75acc5cbd3287d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wood_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb2feece7cb51540908b48688c2deb2
+      internalID: 246874534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c6f262016e414abc9300ae4b9d58b
+      internalID: 2059802445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d34fd54865054fa911b286f15d5ca
+      internalID: 195396604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a76383671af14daa735558012619b
+      internalID: 137729075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759f804b057e234c80d30de64f2fa72
+      internalID: -1771410732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa9881c4fdc38a4b82086aa2d7b284c
+      internalID: -122972533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6e2c69ed948fd4d944a8588b7ad8f1
+      internalID: 332817377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4bcfeed32fb69438aed6fe457a6f5a
+      internalID: -391997319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9e5ee8c7f762b4d87746b733d987ce
+      internalID: 434645242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82463efe4b16534ab37eb68a7e6a9be
+      internalID: -1493707657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2131069c15e3c924993b590a30c18d31
+      internalID: -1377032147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299efab6e678cb0409386e6b9295a172
+      internalID: -33606019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e7ede6cf261048bae40fa151ef352
+      internalID: 1011261706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52fe33ddde0d504bb6dbc1b5209a851
+      internalID: -2092134458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06de443cbeeb804eacbb75a6c153931
+      internalID: -474120146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d5147936aaf94da263aeb4c456428
+      internalID: 880631025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eedf30ec99f6e4f89159adfbb55e45
+      internalID: 204841295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcfa5d8180b90c4a863ab1fd86a4e82
+      internalID: -12972536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48111670637bb2940ba717e4218979b7
+      internalID: -443127248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e137d62b1340b84b8a998f749bcf516
+      internalID: -778416104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wood_tiles_0: 246874534
+      wood_tiles_1: -2049030210
+      wood_tiles_10: 1736032217
+      wood_tiles_11: 1652684995
+      wood_tiles_12: -1144857719
+      wood_tiles_13: -1471596408
+      wood_tiles_14: -247569136
+      wood_tiles_15: -837349428
+      wood_tiles_16: 29627123
+      wood_tiles_17: -2089769473
+      wood_tiles_18: -1121957255
+      wood_tiles_19: 342453402
+      wood_tiles_2: 2059802445
+      wood_tiles_20: -122972533
+      wood_tiles_21: -881227566
+      wood_tiles_22: 332817377
+      wood_tiles_23: 1062058198
+      wood_tiles_24: -391997319
+      wood_tiles_25: 1946811269
+      wood_tiles_26: 434645242
+      wood_tiles_27: -461643120
+      wood_tiles_28: -1493707657
+      wood_tiles_29: 1940171556
+      wood_tiles_3: -2145313603
+      wood_tiles_30: 806455274
+      wood_tiles_31: 1544587943
+      wood_tiles_32: -67473407
+      wood_tiles_33: 1270673672
+      wood_tiles_34: 1436085707
+      wood_tiles_35: -1666590907
+      wood_tiles_36: -1020528920
+      wood_tiles_37: -1565001670
+      wood_tiles_38: -628165932
+      wood_tiles_39: 1090161571
+      wood_tiles_4: 195396604
+      wood_tiles_40: -1377032147
+      wood_tiles_41: 1238481999
+      wood_tiles_42: -33606019
+      wood_tiles_43: -344197213
+      wood_tiles_44: 1011261706
+      wood_tiles_45: -1936635257
+      wood_tiles_46: -2092134458
+      wood_tiles_47: 1500061329
+      wood_tiles_48: -474120146
+      wood_tiles_49: 637074582
+      wood_tiles_5: 1570104721
+      wood_tiles_50: -400211225
+      wood_tiles_51: -737891693
+      wood_tiles_52: 611863789
+      wood_tiles_53: 65854743
+      wood_tiles_54: 2104435012
+      wood_tiles_55: -719350031
+      wood_tiles_56: 948891951
+      wood_tiles_57: 136173874
+      wood_tiles_58: -8356858
+      wood_tiles_59: -1701497558
+      wood_tiles_6: 137729075
+      wood_tiles_60: 880631025
+      wood_tiles_61: 921150415
+      wood_tiles_62: 204841295
+      wood_tiles_63: -363427632
+      wood_tiles_64: -12972536
+      wood_tiles_65: 1504570131
+      wood_tiles_66: -443127248
+      wood_tiles_67: -984170434
+      wood_tiles_68: -778416104
+      wood_tiles_69: 412158326
+      wood_tiles_7: -1057435448
+      wood_tiles_70: 1531429943
+      wood_tiles_71: -692548995
+      wood_tiles_72: 1184457627
+      wood_tiles_73: 207074245
+      wood_tiles_74: 760549194
+      wood_tiles_75: -1365462485
+      wood_tiles_76: 1182084073
+      wood_tiles_77: -2050924815
+      wood_tiles_78: -1278952089
+      wood_tiles_79: -1389299411
+      wood_tiles_8: -1771410732
+      wood_tiles_80: -694760090
+      wood_tiles_81: 1374339984
+      wood_tiles_82: -471295113
+      wood_tiles_9: -1692058859
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

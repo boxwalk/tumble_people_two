@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 472735fa32e7b604cbd573e6e3fd0047
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 385
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b96576bc044f4408198959679dc7a8
+      internalID: -1667176805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a387a314336434985789967604868a
+      internalID: -1941190793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179611e62877c5c4da52565772e77686
+      internalID: 955545889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_6
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429bdd51784ca304480b0b0008417a18
+      internalID: 1987863447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7127d4b57f2924495376dd5e51f7f4
+      internalID: 1383721040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf983904ef9df54d81c09eadfb05a67
+      internalID: 146198355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b289758faa4d4faaab4914dd838ef
+      internalID: 1183303725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_24
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ac92054c750ec489e3c9eb788c6a04
+      internalID: -1008793211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_26
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7f5d08372d9004995ab783d1a251da
+      internalID: 1822596863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_28
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6374d00cd144c4dbf289c186e4e2c2
+      internalID: 1683645752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e97f69e79f614f9e7c75abd39ab14
+      internalID: -59116109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_42
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1449c1e137324599f0d9040ae3c12
+      internalID: -1119428063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_44
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fab0f197d9ba842a28382ae05c6467
+      internalID: -381993397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_46
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2091290183ae3714f92fae0a7c4ac1b2
+      internalID: 1146356134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1d7e38dfd9c9c40859735f6ce6218e
+      internalID: 1281317018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd6903dba84ef4caab2b4ab08a0e82
+      internalID: -1326063130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_62
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2901c8b0864c4a340a3f442df8faa4c2
+      internalID: 843236861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_64
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28d43154718594c889cc65aa6d48cf
+      internalID: 1231090639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_66
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cff739f06c6414ab9f0853089b633d
+      internalID: -180001552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_68
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7a1c55fb838d4694ab7c2e63b7471
+      internalID: -212284998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revamped_raceway_graphics_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03d5eb49d20d244bb668717d424b530
+      internalID: -215740865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      revamped_raceway_graphics_0: -1667176805
+      revamped_raceway_graphics_1: -688048350
+      revamped_raceway_graphics_10: 793912336
+      revamped_raceway_graphics_100: 1323484562
+      revamped_raceway_graphics_101: -736511028
+      revamped_raceway_graphics_102: -1791217058
+      revamped_raceway_graphics_103: -2062359229
+      revamped_raceway_graphics_104: -2134301122
+      revamped_raceway_graphics_105: -661477354
+      revamped_raceway_graphics_106: -427759971
+      revamped_raceway_graphics_107: 1244336847
+      revamped_raceway_graphics_108: 947389641
+      revamped_raceway_graphics_109: -935650912
+      revamped_raceway_graphics_11: -1776304154
+      revamped_raceway_graphics_110: -1902933966
+      revamped_raceway_graphics_111: -1378144588
+      revamped_raceway_graphics_112: -318942535
+      revamped_raceway_graphics_113: -1536348164
+      revamped_raceway_graphics_114: -1372570217
+      revamped_raceway_graphics_115: 1863811946
+      revamped_raceway_graphics_116: 2041773143
+      revamped_raceway_graphics_12: -694661844
+      revamped_raceway_graphics_13: 1841435624
+      revamped_raceway_graphics_14: -2070790403
+      revamped_raceway_graphics_15: -803416368
+      revamped_raceway_graphics_16: 630260244
+      revamped_raceway_graphics_17: -481315603
+      revamped_raceway_graphics_18: -122611961
+      revamped_raceway_graphics_19: -535783015
+      revamped_raceway_graphics_2: -1941190793
+      revamped_raceway_graphics_20: 146198355
+      revamped_raceway_graphics_21: -1478962446
+      revamped_raceway_graphics_22: 1183303725
+      revamped_raceway_graphics_23: 30295801
+      revamped_raceway_graphics_24: -1008793211
+      revamped_raceway_graphics_25: -1847596360
+      revamped_raceway_graphics_26: 1822596863
+      revamped_raceway_graphics_27: 19424227
+      revamped_raceway_graphics_28: 1683645752
+      revamped_raceway_graphics_29: 656262690
+      revamped_raceway_graphics_3: 1624134737
+      revamped_raceway_graphics_30: 35596660
+      revamped_raceway_graphics_31: 810798997
+      revamped_raceway_graphics_32: -193738311
+      revamped_raceway_graphics_33: 1367075190
+      revamped_raceway_graphics_34: -637096688
+      revamped_raceway_graphics_35: -266591741
+      revamped_raceway_graphics_36: 1293046106
+      revamped_raceway_graphics_37: 1531016644
+      revamped_raceway_graphics_38: -984403213
+      revamped_raceway_graphics_39: 332436120
+      revamped_raceway_graphics_4: 955545889
+      revamped_raceway_graphics_40: -59116109
+      revamped_raceway_graphics_41: -367175262
+      revamped_raceway_graphics_42: -1119428063
+      revamped_raceway_graphics_43: 1038906
+      revamped_raceway_graphics_44: -381993397
+      revamped_raceway_graphics_45: -726024711
+      revamped_raceway_graphics_46: 1146356134
+      revamped_raceway_graphics_47: 489269687
+      revamped_raceway_graphics_48: 1281317018
+      revamped_raceway_graphics_49: 2044806610
+      revamped_raceway_graphics_5: 2086293030
+      revamped_raceway_graphics_50: 1953617044
+      revamped_raceway_graphics_51: -122135943
+      revamped_raceway_graphics_52: 1714718517
+      revamped_raceway_graphics_53: 1758971275
+      revamped_raceway_graphics_54: 828080996
+      revamped_raceway_graphics_55: -2041682224
+      revamped_raceway_graphics_56: -506030881
+      revamped_raceway_graphics_57: 1330720665
+      revamped_raceway_graphics_58: 632575333
+      revamped_raceway_graphics_59: 1143915180
+      revamped_raceway_graphics_6: 1987863447
+      revamped_raceway_graphics_60: -1326063130
+      revamped_raceway_graphics_61: -2102741203
+      revamped_raceway_graphics_62: 843236861
+      revamped_raceway_graphics_63: -446284362
+      revamped_raceway_graphics_64: 1231090639
+      revamped_raceway_graphics_65: -349410078
+      revamped_raceway_graphics_66: -180001552
+      revamped_raceway_graphics_67: -1881012161
+      revamped_raceway_graphics_68: -212284998
+      revamped_raceway_graphics_69: -1931994759
+      revamped_raceway_graphics_7: -304019326
+      revamped_raceway_graphics_70: 450103282
+      revamped_raceway_graphics_71: 95082699
+      revamped_raceway_graphics_72: 363002517
+      revamped_raceway_graphics_73: 697422147
+      revamped_raceway_graphics_74: 548476366
+      revamped_raceway_graphics_75: -1004252607
+      revamped_raceway_graphics_76: 611868828
+      revamped_raceway_graphics_77: -1056465212
+      revamped_raceway_graphics_78: 523796706
+      revamped_raceway_graphics_79: 1601364896
+      revamped_raceway_graphics_8: 1383721040
+      revamped_raceway_graphics_80: -215740865
+      revamped_raceway_graphics_81: -2091857513
+      revamped_raceway_graphics_82: -906182648
+      revamped_raceway_graphics_83: -1692378095
+      revamped_raceway_graphics_84: 613679621
+      revamped_raceway_graphics_85: -102509318
+      revamped_raceway_graphics_86: 1288944131
+      revamped_raceway_graphics_87: -523432168
+      revamped_raceway_graphics_88: -710372815
+      revamped_raceway_graphics_89: 902720309
+      revamped_raceway_graphics_9: 1007868240
+      revamped_raceway_graphics_90: 483879467
+      revamped_raceway_graphics_91: 2063435619
+      revamped_raceway_graphics_92: 1860557687
+      revamped_raceway_graphics_93: -587627258
+      revamped_raceway_graphics_94: 1956325072
+      revamped_raceway_graphics_95: -117939303
+      revamped_raceway_graphics_96: 251526976
+      revamped_raceway_graphics_97: 1466953898
+      revamped_raceway_graphics_98: -1261556325
+      revamped_raceway_graphics_99: 1458721496
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

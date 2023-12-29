@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840mm"
+   height="2160mm"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg6278"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="victory screen.svg"
+   inkscape:export-filename="victory screen.png"
+   inkscape:export-xdpi="96.096664"
+   inkscape:export-ydpi="96.096664"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6280"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.022661073"
+     inkscape:cx="5185.1032"
+     inkscape:cy="926.6993"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6275" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:376.278px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';fill:#d35fbc;stroke:#000000;stroke-width:6.66667;stroke-dasharray:none"
+       x="936.37817"
+       y="346.92017"
+       id="text2242"><tspan
+         sodipodi:role="line"
+         id="tspan2240"
+         style="fill:#d35fbc;stroke:#000000;stroke-width:6.66667;stroke-dasharray:none"
+         x="936.37817"
+         y="346.92017">VICTORY!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:376.278px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';fill:#ffffff;stroke:#000000;stroke-width:6.66667;stroke-dasharray:none"
+       x="914.27808"
+       y="338.70761"
+       id="text2242-5"><tspan
+         sodipodi:role="line"
+         id="tspan2240-7"
+         style="fill:#ffffff;stroke:#000000;stroke-width:6.66667;stroke-dasharray:none"
+         x="914.27808"
+         y="338.70761">VICTORY!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:150.512px;font-family:'MV Boli';-inkscape-font-specification:'MV Boli';fill:#000000;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+       x="2911.5557"
+       y="2099.5159"
+       id="text2242-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan2240-7-1"
+         style="fill:#000000;stroke:#000000;stroke-width:5;stroke-dasharray:none"
+         x="2911.5557"
+         y="2099.5159">RESTART &gt;</tspan></text>
+  </g>
+</svg>

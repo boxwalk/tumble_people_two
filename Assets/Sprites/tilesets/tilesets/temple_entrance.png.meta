@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 4db57646b6dbe554fa92ad7121931ec6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: temple_entrance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f465531f1b59c46bebc5bd3f7757a7
+      internalID: 198974874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93e1baaea75634cb87454d1c1644e3
+      internalID: -1569144980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a08af089873c41baeaac083ce84a5
+      internalID: -1319199738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83711c8f9d1f642a040b2f2cb10a48
+      internalID: -817996266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1cde970e797234a8d686a092734bf2
+      internalID: 2115678794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b445f198102bd5447800156fb64c3f38
+      internalID: 1933682006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8749d331a5adbb648b9d5dd8c566f5a3
+      internalID: 1491649318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_8
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991d412841ebfb429b6ba3d719e7a76
+      internalID: 1196789251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a5d0b1e9e6134bb3afa0577d3b444
+      internalID: 744281527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1fd90071ce55541ac3c83eead3a844
+      internalID: -1490681473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a75583c622aad4d914b1a167d0df88
+      internalID: -1487890256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_26
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4466ba2b17c242429f651136183a0de
+      internalID: 323671485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_27
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2f4f9471977504c8cf711216850574
+      internalID: 1550977702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_28
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801fa5698bb822543872b42c498daa4e
+      internalID: 300139747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_29
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ceddf663eacc09408601ad3ce2a2414
+      internalID: -764738220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385848cb9dcbc5e41801bbdc403a5b42
+      internalID: -1629694017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b317e19232ecfc498a89d026fcb62ae
+      internalID: -517535554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_33
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce3c441e7f70204a86f6346429d58cc
+      internalID: 832182931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_34
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95d7cf2ea42b542a7b138a7700ea20
+      internalID: 884514883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_35
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4952abc659a64ba93d7681052efb0
+      internalID: -408914563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_36
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8771a72dcd10245b4210fa8acf4c0c
+      internalID: 270583898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c9d58217cff548a406cadcbcf2fe2
+      internalID: -2045306314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb32e99c5803ad4fbbff8e7189d1572
+      internalID: 1018042153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_40
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825518ef004dac841bc86309bc0b4c70
+      internalID: 578124622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_41
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d7b227dad6aa49843c7a4281fc637
+      internalID: -1084466342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_42
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d47e2ff716e9194abfd643426c3ee4c
+      internalID: 1145099450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_43
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355f119390cb98342b135c0b236e7984
+      internalID: 1391829814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70e6e408ebffe4f95ccf3092f96e8a
+      internalID: 1724639697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eff75ce14d0e6e419c74b251471c9a4
+      internalID: -1541617971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d5c7fa413fec449c64c4baeeafb24
+      internalID: 1895082706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_48
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c73e66636fe044a8cd1e015e80760
+      internalID: -632656813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_49
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebaa043e721edf4c998b3f60a6cd333
+      internalID: -105138235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_50
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2512505a51b848b3574562ad25af6
+      internalID: 1841042883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc5a428ddadb58458befc3fe5a6ae48
+      internalID: -1953614871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_62
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8dfb5ffb1ac004fb650e4e396e4fae
+      internalID: 1813297525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_63
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c22941f91dcc44ca4c665fa4ed8217
+      internalID: -1272512413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_66
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780fbd569f34444b82494b686d1f74b
+      internalID: 1854688625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_67
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc1de4cd5358041ab82c2ffa8aebed
+      internalID: 1288310204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_68
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a91606d008cf0c43a6bfef1f041ed92
+      internalID: -163847443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c40edf0c92bd84ca74770a28cfc770
+      internalID: 705597901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_71
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c558be1a8a8f47a7b89a8ca61e0ea
+      internalID: 1584515904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_72
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2a223695a59ea40b6e4223ebaa0c6a
+      internalID: -1111476913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_75
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bdf6f49769a0348850134aae8aa542
+      internalID: -1927277211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_76
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2a51b4e0ec9894fa2da3ff09fe798c
+      internalID: 2128350485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_77
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714acb5aee43654982ba86368547855
+      internalID: 474135292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898b55da2a708244ba8269b7caa25df7
+      internalID: 2136444041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: temple_entrance_91
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 330
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b555ea9835976148886c218a5b614ec
+      internalID: -1806205120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      temple_entrance_0: 198974874
+      temple_entrance_1: -1569144980
+      temple_entrance_10: 77878590
+      temple_entrance_11: 1034683175
+      temple_entrance_12: 347164170
+      temple_entrance_13: -408615718
+      temple_entrance_14: 1007749939
+      temple_entrance_15: 744281527
+      temple_entrance_16: 1601930262
+      temple_entrance_17: -262987491
+      temple_entrance_18: 1227974763
+      temple_entrance_19: -1555649959
+      temple_entrance_2: -1319199738
+      temple_entrance_20: 465260263
+      temple_entrance_21: 468481878
+      temple_entrance_22: -199670802
+      temple_entrance_23: 923448413
+      temple_entrance_24: -1490681473
+      temple_entrance_25: -1487890256
+      temple_entrance_26: 323671485
+      temple_entrance_27: 1550977702
+      temple_entrance_28: 300139747
+      temple_entrance_29: -764738220
+      temple_entrance_3: -817996266
+      temple_entrance_30: 11852515
+      temple_entrance_31: -1629694017
+      temple_entrance_32: -517535554
+      temple_entrance_33: 832182931
+      temple_entrance_34: 884514883
+      temple_entrance_35: -408914563
+      temple_entrance_36: 270583898
+      temple_entrance_37: -105703655
+      temple_entrance_38: -2045306314
+      temple_entrance_39: 1018042153
+      temple_entrance_4: -117746456
+      temple_entrance_40: 578124622
+      temple_entrance_41: -1084466342
+      temple_entrance_42: 1145099450
+      temple_entrance_43: 1391829814
+      temple_entrance_44: -577605726
+      temple_entrance_45: 1724639697
+      temple_entrance_46: -1541617971
+      temple_entrance_47: 1895082706
+      temple_entrance_48: -632656813
+      temple_entrance_49: -105138235
+      temple_entrance_5: 2115678794
+      temple_entrance_50: 1841042883
+      temple_entrance_51: -2032586461
+      temple_entrance_52: 708778669
+      temple_entrance_53: -980549891
+      temple_entrance_54: -1935478602
+      temple_entrance_55: 362814370
+      temple_entrance_56: -145246464
+      temple_entrance_57: -1333388267
+      temple_entrance_58: -756150337
+      temple_entrance_59: 1871593288
+      temple_entrance_6: 1933682006
+      temple_entrance_60: 273082934
+      temple_entrance_61: -1953614871
+      temple_entrance_62: 1813297525
+      temple_entrance_63: -1272512413
+      temple_entrance_64: 1312142804
+      temple_entrance_65: -1888795850
+      temple_entrance_66: 1854688625
+      temple_entrance_67: 1288310204
+      temple_entrance_68: -163847443
+      temple_entrance_69: 859849737
+      temple_entrance_7: 1491649318
+      temple_entrance_70: 705597901
+      temple_entrance_71: 1584515904
+      temple_entrance_72: -1111476913
+      temple_entrance_73: -693900232
+      temple_entrance_74: 1095568039
+      temple_entrance_75: -1927277211
+      temple_entrance_76: 2128350485
+      temple_entrance_77: 474135292
+      temple_entrance_78: -50914342
+      temple_entrance_79: -343865290
+      temple_entrance_8: 1196789251
+      temple_entrance_80: -974240071
+      temple_entrance_81: -216104632
+      temple_entrance_82: -548749478
+      temple_entrance_83: 2132871640
+      temple_entrance_84: 145637081
+      temple_entrance_85: 2062742328
+      temple_entrance_86: 1759268244
+      temple_entrance_87: -775409388
+      temple_entrance_88: 2136444041
+      temple_entrance_89: 692022833
+      temple_entrance_9: 1598691852
+      temple_entrance_90: -1315210935
+      temple_entrance_91: -1806205120
+      temple_entrance_92: -82526510
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

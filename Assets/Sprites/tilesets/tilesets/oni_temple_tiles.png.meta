@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 2d7f6e24cd5b2f44cb6c6d2433c3d288
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oni_temple_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbe35226d43e9649bfe2fa6d34a29ff
+      internalID: 1269196480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993ae5d5b71ed544bac8255e296a8134
+      internalID: -905620165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3279160aa4ed6564681d01b52f2b64b9
+      internalID: 260841361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8381909c1f912a94c966bfdf19d76c25
+      internalID: -2060331932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b731299c070dd49a79bdee317052dc
+      internalID: -522912451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c1e474630a4041bc2f9f3205feed6
+      internalID: -691872406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24caa485b47848540b934039303bfc9f
+      internalID: 324139658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8de024cb7fa0943ab5122061a8fcc3
+      internalID: 1217702857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ae46b926271ed4992aa90243ada00b
+      internalID: -1580079859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oni_temple_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0830b701380ea842bfae8a53c5453a0
+      internalID: 1337662023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      oni_temple_tiles_0: 1269196480
+      oni_temple_tiles_1: -905620165
+      oni_temple_tiles_10: 465017342
+      oni_temple_tiles_11: 1786913637
+      oni_temple_tiles_12: -691872406
+      oni_temple_tiles_13: 324139658
+      oni_temple_tiles_14: 1217702857
+      oni_temple_tiles_15: -1580079859
+      oni_temple_tiles_16: 1337662023
+      oni_temple_tiles_17: 2037144382
+      oni_temple_tiles_18: 1929034509
+      oni_temple_tiles_19: 414814101
+      oni_temple_tiles_2: 260841361
+      oni_temple_tiles_20: -146921026
+      oni_temple_tiles_21: 1550568942
+      oni_temple_tiles_22: -1648103479
+      oni_temple_tiles_23: 444485566
+      oni_temple_tiles_24: 1671635819
+      oni_temple_tiles_25: -1554956902
+      oni_temple_tiles_26: -1678475704
+      oni_temple_tiles_27: -1904596923
+      oni_temple_tiles_28: -14159435
+      oni_temple_tiles_29: -1086066590
+      oni_temple_tiles_3: -2060331932
+      oni_temple_tiles_30: 542973809
+      oni_temple_tiles_31: -1250502360
+      oni_temple_tiles_32: -646027081
+      oni_temple_tiles_33: -446932231
+      oni_temple_tiles_34: 1705188795
+      oni_temple_tiles_35: 1405893752
+      oni_temple_tiles_36: -1034100753
+      oni_temple_tiles_37: 1120556531
+      oni_temple_tiles_38: 1274807457
+      oni_temple_tiles_39: -1541607393
+      oni_temple_tiles_4: -522912451
+      oni_temple_tiles_40: -1224929615
+      oni_temple_tiles_41: -50456669
+      oni_temple_tiles_42: 248422930
+      oni_temple_tiles_43: -115104821
+      oni_temple_tiles_44: 1605360909
+      oni_temple_tiles_45: 631041306
+      oni_temple_tiles_46: -28005823
+      oni_temple_tiles_47: 1414097123
+      oni_temple_tiles_48: -1982400067
+      oni_temple_tiles_49: 1021344347
+      oni_temple_tiles_5: 850186018
+      oni_temple_tiles_50: 883607987
+      oni_temple_tiles_51: -922980244
+      oni_temple_tiles_52: 2044227432
+      oni_temple_tiles_53: 551076052
+      oni_temple_tiles_54: 895115889
+      oni_temple_tiles_55: 1495021301
+      oni_temple_tiles_56: 466915314
+      oni_temple_tiles_57: -1346274751
+      oni_temple_tiles_58: 431355615
+      oni_temple_tiles_59: 559024207
+      oni_temple_tiles_6: -949019385
+      oni_temple_tiles_60: -1044582091
+      oni_temple_tiles_61: 1366728592
+      oni_temple_tiles_62: -436907115
+      oni_temple_tiles_63: 329440444
+      oni_temple_tiles_64: 724935354
+      oni_temple_tiles_65: 438268213
+      oni_temple_tiles_66: 812961317
+      oni_temple_tiles_67: -88249887
+      oni_temple_tiles_68: -833840908
+      oni_temple_tiles_69: -1963236138
+      oni_temple_tiles_7: 2053283005
+      oni_temple_tiles_70: 1637433298
+      oni_temple_tiles_71: -137778554
+      oni_temple_tiles_72: 218305568
+      oni_temple_tiles_8: 843836854
+      oni_temple_tiles_9: -1524586764
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

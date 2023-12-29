@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: d829d51e14337d14cbf60a1153b0e00f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mountain_temple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c70da36bfc680b4a996d51ed5f553b3
+      internalID: -1982181710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef563a0a69a05e044a32cc4ea963d777
+      internalID: -731020386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffb315f014fe544aa68c1191503a1c7
+      internalID: 1923848095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e8889b006a7804da958f285dcc9818
+      internalID: 83874145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269ea3a6c0fc3e3478501e8796d733f6
+      internalID: 99725900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_19
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348e9756c9572ba44852d6867fe9a52a
+      internalID: 403001992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_21
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c6df757b968a4e8a0d6ef199913ec
+      internalID: -905203514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_23
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116256e0f5a11dc44a88faf2bc97193a
+      internalID: -1113735571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f50f044885b3548b84f1a8b594b47a
+      internalID: -438973153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_28
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcbd22f79fbf124387b7d9d0fb0a446
+      internalID: -2404101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_30
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311a1124f2a2b904da1b6855d94efd31
+      internalID: -1648710708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_32
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5561e1f20257445b230e01cd99d915
+      internalID: 1232216531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_38
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f84b1d633fb394abf1d16dc7b97400
+      internalID: -1170730663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_40
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc88e0052f8da534ca756646e1f3ea72
+      internalID: -165725111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_42
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3570c2b6886dd4abc68bae34521642
+      internalID: 374361487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45018c783bb294eb1d82c70670c726
+      internalID: -1596767971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191de7cdb58ee941bac1eff3ece83e8
+      internalID: 984437758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_46
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8525587c788ce964cb58397ddb58ec5b
+      internalID: -338846530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_47
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48662cfbbadf33848a0487b5d1469f17
+      internalID: -1042934558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_48
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b8aac7cc2058438f745eabab60ddb
+      internalID: 1037101150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_49
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c6003ec0bf5e4ea43796efa78f7cb
+      internalID: -816439188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171ce348b8a5f9940932be3d7fd3cf82
+      internalID: -1325596383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_52
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3759615a00b2e40b1e38d9342ea7ff
+      internalID: 927794570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_53
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45852347a76489546ac4b9b23313f1dd
+      internalID: -2122197069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_54
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d471729ec891694aabe24c2faba7a79
+      internalID: -1781694262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_55
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513a3ab9372efc45af628ac83437266
+      internalID: 1201916050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_56
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54c69051e153dc43a6d5839a58e900d
+      internalID: -566904552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d428c3e19f74a43a965cad3fd20c96
+      internalID: 1015599912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_59
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fead00c7186ca44915592bc64dc6e6
+      internalID: -1386833173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_60
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f737d66b9ea6bd498cd4edefac7ea10
+      internalID: 165519552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_61
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f26a4aeb5ee44b8185ad98c9b8906
+      internalID: -1341695335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_62
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1792b702f7df36439c90765ca540a7d
+      internalID: 1979018279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_63
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9d85fc16496b4a93ef4e12bcea34d
+      internalID: -1297045539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eadfdd93137e44cbed640f52f7f960
+      internalID: 972779771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8f0294144c5e142979f750e1481648
+      internalID: 2010846594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_67
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914d3c09f85f52f47bfa6fd0c84b7645
+      internalID: 726819837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_68
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb635416289d249bd1f120dae9fcc4
+      internalID: -2021328427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_69
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6adbe53ee93664082ebfbd7b6da0ce
+      internalID: -1597900324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_70
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f514b0b6ead83e45aac7250e377225e
+      internalID: 1196443462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5baf5dc2e07aa4b9afd17513c05e39
+      internalID: -1953177528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_80
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e670b01bc5df44c92250b8a2b0dc9a
+      internalID: -1603382841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_81
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94197eccc592be47afab03685eb10d0
+      internalID: -1546354372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae52aed1242a7428a9c3ef3eefe072
+      internalID: 1359426130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_84
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7b960fcc9a664b8547cde80b2e27e
+      internalID: -1264830855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_temple_85
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1104
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a02f93a67253946b3d1be118802645
+      internalID: 1910436875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mountain_temple_0: -1982181710
+      mountain_temple_1: -731020386
+      mountain_temple_10: -82909767
+      mountain_temple_100: 1647247500
+      mountain_temple_101: -1411369693
+      mountain_temple_102: 1955092194
+      mountain_temple_103: 2103348742
+      mountain_temple_104: -482730522
+      mountain_temple_105: -1569453548
+      mountain_temple_106: 1940502776
+      mountain_temple_107: 493003495
+      mountain_temple_108: 1159384809
+      mountain_temple_11: -1665152745
+      mountain_temple_12: -2146869929
+      mountain_temple_13: -1435833355
+      mountain_temple_14: 1600271698
+      mountain_temple_15: -1037528987
+      mountain_temple_16: 1719554740
+      mountain_temple_17: 1988344853
+      mountain_temple_18: -502198928
+      mountain_temple_19: 403001992
+      mountain_temple_2: 1923848095
+      mountain_temple_20: -1174270956
+      mountain_temple_21: -905203514
+      mountain_temple_22: 24991514
+      mountain_temple_23: -1113735571
+      mountain_temple_24: -1410414456
+      mountain_temple_25: -438973153
+      mountain_temple_26: -758457552
+      mountain_temple_27: 518657763
+      mountain_temple_28: -2404101
+      mountain_temple_29: 217756396
+      mountain_temple_3: 83874145
+      mountain_temple_30: -1648710708
+      mountain_temple_31: 34810283
+      mountain_temple_32: 1232216531
+      mountain_temple_33: -692544008
+      mountain_temple_34: 227396760
+      mountain_temple_35: 1867521503
+      mountain_temple_36: 221847116
+      mountain_temple_37: 1367696920
+      mountain_temple_38: -1170730663
+      mountain_temple_39: -319789390
+      mountain_temple_4: 99725900
+      mountain_temple_40: -165725111
+      mountain_temple_41: 1676434865
+      mountain_temple_42: 374361487
+      mountain_temple_43: 1453186215
+      mountain_temple_44: -1596767971
+      mountain_temple_45: 984437758
+      mountain_temple_46: -338846530
+      mountain_temple_47: -1042934558
+      mountain_temple_48: 1037101150
+      mountain_temple_49: -816439188
+      mountain_temple_5: 1251596218
+      mountain_temple_50: 18958462
+      mountain_temple_51: -1325596383
+      mountain_temple_52: 927794570
+      mountain_temple_53: -2122197069
+      mountain_temple_54: -1781694262
+      mountain_temple_55: 1201916050
+      mountain_temple_56: -566904552
+      mountain_temple_57: 2015601417
+      mountain_temple_58: 1015599912
+      mountain_temple_59: -1386833173
+      mountain_temple_6: -1996609250
+      mountain_temple_60: 165519552
+      mountain_temple_61: -1341695335
+      mountain_temple_62: 1979018279
+      mountain_temple_63: -1297045539
+      mountain_temple_64: -2011685051
+      mountain_temple_65: 972779771
+      mountain_temple_66: 2010846594
+      mountain_temple_67: 726819837
+      mountain_temple_68: -2021328427
+      mountain_temple_69: -1597900324
+      mountain_temple_7: -786864447
+      mountain_temple_70: 1196443462
+      mountain_temple_71: 778400071
+      mountain_temple_72: 259517902
+      mountain_temple_73: 2016785288
+      mountain_temple_74: -448820750
+      mountain_temple_75: 1310299596
+      mountain_temple_76: -2080702792
+      mountain_temple_77: 1855123326
+      mountain_temple_78: 773050051
+      mountain_temple_79: -1953177528
+      mountain_temple_8: 1414414968
+      mountain_temple_80: -1603382841
+      mountain_temple_81: -1546354372
+      mountain_temple_82: -1758897082
+      mountain_temple_83: 1359426130
+      mountain_temple_84: -1264830855
+      mountain_temple_85: 1910436875
+      mountain_temple_86: -1361363362
+      mountain_temple_87: 725802038
+      mountain_temple_88: -1224946858
+      mountain_temple_89: 394199084
+      mountain_temple_9: 78582755
+      mountain_temple_90: 904611995
+      mountain_temple_91: 163219625
+      mountain_temple_92: -2132036451
+      mountain_temple_93: -2134064441
+      mountain_temple_94: -845652949
+      mountain_temple_95: 1429501550
+      mountain_temple_96: 651673912
+      mountain_temple_97: 1530664883
+      mountain_temple_98: -694677920
+      mountain_temple_99: 446034440
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

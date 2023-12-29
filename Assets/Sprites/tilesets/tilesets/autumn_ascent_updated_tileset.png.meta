@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 77f764f8913c5934b8a2ff23a84fd100
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: autumn_ascent_updated_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85337cdfb1678504faa86477aeee9152
+      internalID: -489308958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_updated_tileset_101
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa77eaa4df681214f929173f4217519d
+      internalID: 1219071096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_updated_tileset_103
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57ae30ecd9e2c149ae0f1160bad7e40
+      internalID: 670858979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      autumn_ascent_updated_tileset_0: 1248942331
+      autumn_ascent_updated_tileset_1: 1241354260
+      autumn_ascent_updated_tileset_10: -1615076758
+      autumn_ascent_updated_tileset_100: 987811653
+      autumn_ascent_updated_tileset_101: 1219071096
+      autumn_ascent_updated_tileset_102: 1289330928
+      autumn_ascent_updated_tileset_103: 670858979
+      autumn_ascent_updated_tileset_104: -1420087599
+      autumn_ascent_updated_tileset_105: 1019922977
+      autumn_ascent_updated_tileset_106: -1191269145
+      autumn_ascent_updated_tileset_107: 1305962326
+      autumn_ascent_updated_tileset_108: 80545393
+      autumn_ascent_updated_tileset_11: -693772273
+      autumn_ascent_updated_tileset_12: -1798228390
+      autumn_ascent_updated_tileset_13: -888073631
+      autumn_ascent_updated_tileset_14: -1311021066
+      autumn_ascent_updated_tileset_15: -421349542
+      autumn_ascent_updated_tileset_16: -1683234498
+      autumn_ascent_updated_tileset_17: 2113428278
+      autumn_ascent_updated_tileset_18: 870928733
+      autumn_ascent_updated_tileset_19: 1478226957
+      autumn_ascent_updated_tileset_2: -2748103
+      autumn_ascent_updated_tileset_20: -575501452
+      autumn_ascent_updated_tileset_21: -1978549427
+      autumn_ascent_updated_tileset_22: -1683851796
+      autumn_ascent_updated_tileset_23: 1295211229
+      autumn_ascent_updated_tileset_24: -1242657817
+      autumn_ascent_updated_tileset_25: 1042866842
+      autumn_ascent_updated_tileset_26: 1827804697
+      autumn_ascent_updated_tileset_27: -351275288
+      autumn_ascent_updated_tileset_28: 1987554174
+      autumn_ascent_updated_tileset_29: 1126531641
+      autumn_ascent_updated_tileset_3: -652956488
+      autumn_ascent_updated_tileset_30: -1313903607
+      autumn_ascent_updated_tileset_31: 856234259
+      autumn_ascent_updated_tileset_32: 1107067564
+      autumn_ascent_updated_tileset_33: -1107646680
+      autumn_ascent_updated_tileset_34: -1500718403
+      autumn_ascent_updated_tileset_35: 531852275
+      autumn_ascent_updated_tileset_36: -696531476
+      autumn_ascent_updated_tileset_37: -223149130
+      autumn_ascent_updated_tileset_38: 1317809169
+      autumn_ascent_updated_tileset_39: -1794894143
+      autumn_ascent_updated_tileset_4: -135593460
+      autumn_ascent_updated_tileset_40: -163864973
+      autumn_ascent_updated_tileset_41: -1825429609
+      autumn_ascent_updated_tileset_42: -1271466609
+      autumn_ascent_updated_tileset_43: 1265788029
+      autumn_ascent_updated_tileset_44: 58269654
+      autumn_ascent_updated_tileset_45: -110922368
+      autumn_ascent_updated_tileset_46: 317273829
+      autumn_ascent_updated_tileset_47: -1078557869
+      autumn_ascent_updated_tileset_48: -489308958
+      autumn_ascent_updated_tileset_49: 992612564
+      autumn_ascent_updated_tileset_5: -1983014495
+      autumn_ascent_updated_tileset_50: -414023522
+      autumn_ascent_updated_tileset_51: -1907468828
+      autumn_ascent_updated_tileset_52: 475671366
+      autumn_ascent_updated_tileset_53: 978903830
+      autumn_ascent_updated_tileset_54: 2104007775
+      autumn_ascent_updated_tileset_55: 1737570317
+      autumn_ascent_updated_tileset_56: 139090770
+      autumn_ascent_updated_tileset_57: 70234189
+      autumn_ascent_updated_tileset_58: 1360815251
+      autumn_ascent_updated_tileset_59: -1172059891
+      autumn_ascent_updated_tileset_6: 1817400168
+      autumn_ascent_updated_tileset_60: -1251266543
+      autumn_ascent_updated_tileset_61: -1406749922
+      autumn_ascent_updated_tileset_62: -832978085
+      autumn_ascent_updated_tileset_63: 1565103724
+      autumn_ascent_updated_tileset_64: -1372110548
+      autumn_ascent_updated_tileset_65: -720701022
+      autumn_ascent_updated_tileset_66: 330328187
+      autumn_ascent_updated_tileset_67: -2121031053
+      autumn_ascent_updated_tileset_68: -993074024
+      autumn_ascent_updated_tileset_69: -414197195
+      autumn_ascent_updated_tileset_7: 370089841
+      autumn_ascent_updated_tileset_70: 122741599
+      autumn_ascent_updated_tileset_71: 881050184
+      autumn_ascent_updated_tileset_72: 1404765200
+      autumn_ascent_updated_tileset_73: -566443223
+      autumn_ascent_updated_tileset_74: -198851832
+      autumn_ascent_updated_tileset_75: 784895540
+      autumn_ascent_updated_tileset_76: -1716588460
+      autumn_ascent_updated_tileset_77: -367244985
+      autumn_ascent_updated_tileset_78: -1065817371
+      autumn_ascent_updated_tileset_79: 634582930
+      autumn_ascent_updated_tileset_8: -2087518594
+      autumn_ascent_updated_tileset_80: 1716937653
+      autumn_ascent_updated_tileset_81: -512178554
+      autumn_ascent_updated_tileset_82: -16458895
+      autumn_ascent_updated_tileset_83: -1626225113
+      autumn_ascent_updated_tileset_84: 38873175
+      autumn_ascent_updated_tileset_85: -1444053068
+      autumn_ascent_updated_tileset_86: 683926798
+      autumn_ascent_updated_tileset_87: 367140389
+      autumn_ascent_updated_tileset_88: 1085479714
+      autumn_ascent_updated_tileset_89: -1865733281
+      autumn_ascent_updated_tileset_9: 859832458
+      autumn_ascent_updated_tileset_90: -2062128118
+      autumn_ascent_updated_tileset_91: 1204259450
+      autumn_ascent_updated_tileset_92: -1842730782
+      autumn_ascent_updated_tileset_93: 418996578
+      autumn_ascent_updated_tileset_94: -50685859
+      autumn_ascent_updated_tileset_95: -388546869
+      autumn_ascent_updated_tileset_96: -2146948231
+      autumn_ascent_updated_tileset_97: -1777316978
+      autumn_ascent_updated_tileset_98: -1577206435
+      autumn_ascent_updated_tileset_99: 410018540
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

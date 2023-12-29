@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: 1e7368a4d1b1e0d42a6dbb2397af0409
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 387.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1d22dcc4a60141bf3fe52aea68880
+      internalID: -1968249539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66db48fcb52f2a488954b834a8a35da
+      internalID: -1381013038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_7
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e692b46b0695211479ce539d0c5a2972
+      internalID: 397025685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_8
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ee00b40f2b8ab409f1cc8bbe441541
+      internalID: -1426261556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444f0d7599732840a66e57b5dcacbb8
+      internalID: 479582883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a06ce7f5c8a104084d5f8b0aa3867c
+      internalID: 1132893224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14239daa9b0965543946449002071553
+      internalID: 122102504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde3a1081388ad4a8fe812c1998e953
+      internalID: -313630770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b353cb7293888df4b97e632343828141
+      internalID: -2005920859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf0e0b1412f4854e8832fd2a5520173
+      internalID: -1643004223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227622144f47e1146a2aa717de6ab6f8
+      internalID: -1516680195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd0a5b8675a6204d85d2fbce3e00394
+      internalID: 731038148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f558240b78a008447a96810dc61aa456
+      internalID: 1522628075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a58bb045304b74583e4ae742e3a2a6
+      internalID: 1104693664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_28
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e86d62858750214e851247f4a1e5dbe
+      internalID: 1329289415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_29
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b7863e2ab2c84dafee6222f1e5637
+      internalID: -1578700710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2f7c566f3469b47ab6c9871352c42e
+      internalID: 730237039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_45
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ad4826a39bf9e478808dfdcfd619b0
+      internalID: -1429413097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_46
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d12ef13752e2e47b8a5cfe0ffa8915
+      internalID: -1299212709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_47
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecab9f707b24fe74894957d86c07d28f
+      internalID: -1447651177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d89e566d2dc0b54490d72380020b1e7
+      internalID: -754137267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_55
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f6b1c34a135a7469e1c9fc1639d28f
+      internalID: 641351994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575b16bd6af18e459c2b4099801f5d0
+      internalID: -83909519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_57
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2652
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2025cfc3ef073469d1a2ba394eee56
+      internalID: 1164136185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1878
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7001c5886d4a94d87f0daed5c38abd
+      internalID: -1719708712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_70
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1878
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f9aed5f2c04b4e950f4f27701b24e
+      internalID: 1009100780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_71
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1878
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac120eb2dceeab641a6eede56e3aac4b
+      internalID: 93027612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_72
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1878
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79700edb02b70d8468be2668f242ae4f
+      internalID: 2000725082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2a05b7caa705445b60f812a17accd2
+      internalID: -1933165302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930d59390ebb7084f955394dce5da2f9
+      internalID: -1265943126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_76
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d941b15c9daec3741adaeacdd51733f3
+      internalID: 1469515088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeway_submarine_77
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1491
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec161cfb90fade43817d44698524e32
+      internalID: -1853004906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      putrid_pipeway_submarine_0: 479582883
+      putrid_pipeway_submarine_1: 1132893224
+      putrid_pipeway_submarine_10: -1441330754
+      putrid_pipeway_submarine_11: 1231245618
+      putrid_pipeway_submarine_12: -1356708625
+      putrid_pipeway_submarine_13: -818213870
+      putrid_pipeway_submarine_14: 130459244
+      putrid_pipeway_submarine_15: -350728666
+      putrid_pipeway_submarine_16: 1276359143
+      putrid_pipeway_submarine_17: 663831366
+      putrid_pipeway_submarine_18: -2005920859
+      putrid_pipeway_submarine_19: -1643004223
+      putrid_pipeway_submarine_2: 122102504
+      putrid_pipeway_submarine_20: -1516680195
+      putrid_pipeway_submarine_21: 731038148
+      putrid_pipeway_submarine_22: 1271849348
+      putrid_pipeway_submarine_23: -119640149
+      putrid_pipeway_submarine_24: 747390934
+      putrid_pipeway_submarine_25: -1744599750
+      putrid_pipeway_submarine_26: 1522628075
+      putrid_pipeway_submarine_27: 1104693664
+      putrid_pipeway_submarine_28: 1329289415
+      putrid_pipeway_submarine_29: -1578700710
+      putrid_pipeway_submarine_3: -1968249539
+      putrid_pipeway_submarine_30: 1867152953
+      putrid_pipeway_submarine_31: 286462493
+      putrid_pipeway_submarine_32: 925845768
+      putrid_pipeway_submarine_33: -733166941
+      putrid_pipeway_submarine_34: -853218751
+      putrid_pipeway_submarine_35: -1791503141
+      putrid_pipeway_submarine_36: 1581712968
+      putrid_pipeway_submarine_37: 837546994
+      putrid_pipeway_submarine_38: 306046737
+      putrid_pipeway_submarine_39: 1150418068
+      putrid_pipeway_submarine_4: -1293660190
+      putrid_pipeway_submarine_40: -495632843
+      putrid_pipeway_submarine_41: -1576327183
+      putrid_pipeway_submarine_42: 419409729
+      putrid_pipeway_submarine_43: 1498368577
+      putrid_pipeway_submarine_44: 730237039
+      putrid_pipeway_submarine_45: -1429413097
+      putrid_pipeway_submarine_46: -1299212709
+      putrid_pipeway_submarine_47: -1447651177
+      putrid_pipeway_submarine_48: 1402054184
+      putrid_pipeway_submarine_49: 1133196179
+      putrid_pipeway_submarine_5: -313630770
+      putrid_pipeway_submarine_50: 1923765615
+      putrid_pipeway_submarine_51: 513711738
+      putrid_pipeway_submarine_52: -284086907
+      putrid_pipeway_submarine_53: -585709533
+      putrid_pipeway_submarine_54: -754137267
+      putrid_pipeway_submarine_55: 641351994
+      putrid_pipeway_submarine_56: -83909519
+      putrid_pipeway_submarine_57: 1164136185
+      putrid_pipeway_submarine_58: 1681179358
+      putrid_pipeway_submarine_59: 1768702010
+      putrid_pipeway_submarine_6: -1381013038
+      putrid_pipeway_submarine_60: 55219168
+      putrid_pipeway_submarine_61: 2048937144
+      putrid_pipeway_submarine_62: 2008385141
+      putrid_pipeway_submarine_63: 1738154625
+      putrid_pipeway_submarine_64: -1673444778
+      putrid_pipeway_submarine_65: -1909996916
+      putrid_pipeway_submarine_66: 986059864
+      putrid_pipeway_submarine_67: -1031279433
+      putrid_pipeway_submarine_68: 83586777
+      putrid_pipeway_submarine_69: -1719708712
+      putrid_pipeway_submarine_7: 397025685
+      putrid_pipeway_submarine_70: 1009100780
+      putrid_pipeway_submarine_71: 93027612
+      putrid_pipeway_submarine_72: 2000725082
+      putrid_pipeway_submarine_73: 1232439337
+      putrid_pipeway_submarine_74: -1933165302
+      putrid_pipeway_submarine_75: -1265943126
+      putrid_pipeway_submarine_76: 1469515088
+      putrid_pipeway_submarine_77: -1853004906
+      putrid_pipeway_submarine_78: 845653829
+      putrid_pipeway_submarine_79: -476963672
+      putrid_pipeway_submarine_8: -1426261556
+      putrid_pipeway_submarine_80: -1239991705
+      putrid_pipeway_submarine_81: -459336020
+      putrid_pipeway_submarine_82: -171453875
+      putrid_pipeway_submarine_83: 1251186920
+      putrid_pipeway_submarine_84: -447367698
+      putrid_pipeway_submarine_85: 2026231885
+      putrid_pipeway_submarine_86: -810111642
+      putrid_pipeway_submarine_87: 1749476257
+      putrid_pipeway_submarine_88: 464186205
+      putrid_pipeway_submarine_89: -527684382
+      putrid_pipeway_submarine_9: -2083539493
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: c8ca86955c68ba3498e7787965ccc3fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: settings_menu_0
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 6805
+        width: 12872
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ece172d9a15244b8d666702f6c512f
+      internalID: 1288363039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_menu_1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 5567
+        width: 12872
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27601d179a6f51448a3db65a16c92c96
+      internalID: -2062913918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_menu_2
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 4612
+        width: 11659
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f302b8b1d6eb10e4b9e69a78cf4722b0
+      internalID: 1854276421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_menu_77
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3485
+        width: 12872
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed700224d6125f54e87d071bd38d3e0e
+      internalID: 482454032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_menu_78
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2247
+        width: 12872
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9727b9581e1c5247989f1e3761bf4a5
+      internalID: -508725035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_menu_79
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1391
+        width: 12844
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192cbf5cd936644c8a76179745f23be
+      internalID: -1582872551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: settings_menu_173
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 126
+        width: 1142
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee602c0377b98f64295daadf589fbe21
+      internalID: -1003206666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      settings_menu_0: 1288363039
+      settings_menu_1: -2062913918
+      settings_menu_10: 1307030713
+      settings_menu_100: 855344496
+      settings_menu_101: 1580935536
+      settings_menu_102: 1635280415
+      settings_menu_103: -75884309
+      settings_menu_104: 443195130
+      settings_menu_105: 535296833
+      settings_menu_106: -1201000948
+      settings_menu_107: -1486713135
+      settings_menu_108: -740298146
+      settings_menu_109: -1199454539
+      settings_menu_11: 1667433435
+      settings_menu_110: -967148248
+      settings_menu_111: -2118244449
+      settings_menu_112: -14838702
+      settings_menu_113: -176102663
+      settings_menu_114: 823357607
+      settings_menu_115: 671978022
+      settings_menu_116: -414469036
+      settings_menu_117: -64475133
+      settings_menu_118: -947361529
+      settings_menu_119: 824032876
+      settings_menu_12: -383974353
+      settings_menu_120: -1107443035
+      settings_menu_121: 674360158
+      settings_menu_122: 820694731
+      settings_menu_123: -1614061083
+      settings_menu_124: 527921772
+      settings_menu_125: -41565947
+      settings_menu_126: 1273721626
+      settings_menu_127: 1330455334
+      settings_menu_128: 1538741553
+      settings_menu_129: 1391494394
+      settings_menu_13: 1984194577
+      settings_menu_130: -419598971
+      settings_menu_131: 241767824
+      settings_menu_132: -100977665
+      settings_menu_133: -1547010353
+      settings_menu_134: -1307320820
+      settings_menu_135: 1200462203
+      settings_menu_136: 393712483
+      settings_menu_137: -1475287479
+      settings_menu_138: 1273675429
+      settings_menu_139: 1425205123
+      settings_menu_14: 1812601604
+      settings_menu_140: 1311805799
+      settings_menu_141: 1815468292
+      settings_menu_142: 1610571141
+      settings_menu_143: 1094634775
+      settings_menu_144: 565337905
+      settings_menu_145: 1333477759
+      settings_menu_146: -1583554679
+      settings_menu_147: 246145249
+      settings_menu_148: -1428268252
+      settings_menu_149: -1327733867
+      settings_menu_15: -861208345
+      settings_menu_150: -528356953
+      settings_menu_151: -1372536346
+      settings_menu_152: -1832705351
+      settings_menu_153: -1268081255
+      settings_menu_154: -1021226495
+      settings_menu_155: -1426672697
+      settings_menu_156: -872109560
+      settings_menu_157: 609998078
+      settings_menu_158: 1837969071
+      settings_menu_159: -841408108
+      settings_menu_16: 1306183432
+      settings_menu_160: 1208012907
+      settings_menu_161: -1302996475
+      settings_menu_162: 79838476
+      settings_menu_163: 726636735
+      settings_menu_164: -108649247
+      settings_menu_165: -667098039
+      settings_menu_166: -2090420189
+      settings_menu_167: 2054110022
+      settings_menu_168: 736829831
+      settings_menu_169: 1524130932
+      settings_menu_17: 2036999276
+      settings_menu_170: -1830583619
+      settings_menu_171: 1717592838
+      settings_menu_172: -108284187
+      settings_menu_173: -1003206666
+      settings_menu_18: -1462660269
+      settings_menu_19: -1754018872
+      settings_menu_2: 1854276421
+      settings_menu_20: -1489037701
+      settings_menu_21: 2022590485
+      settings_menu_22: -548201100
+      settings_menu_23: -1971371284
+      settings_menu_24: -2015340714
+      settings_menu_25: -568415927
+      settings_menu_26: -2007360752
+      settings_menu_27: -795114636
+      settings_menu_28: 365796172
+      settings_menu_29: -1494583696
+      settings_menu_3: 184325461
+      settings_menu_30: -360406488
+      settings_menu_31: 427783327
+      settings_menu_32: 267808186
+      settings_menu_33: -127032059
+      settings_menu_34: -2086088462
+      settings_menu_35: 2061862159
+      settings_menu_36: 535332612
+      settings_menu_37: -133188886
+      settings_menu_38: -939348079
+      settings_menu_39: 315617796
+      settings_menu_4: 1590252153
+      settings_menu_40: 2007784233
+      settings_menu_41: 1141521216
+      settings_menu_42: 1664917795
+      settings_menu_43: -1730509564
+      settings_menu_44: 1153341688
+      settings_menu_45: -1725756784
+      settings_menu_46: -332505723
+      settings_menu_47: -1490404033
+      settings_menu_48: -1799679076
+      settings_menu_49: 2087885382
+      settings_menu_5: -2111957738
+      settings_menu_50: -1448646637
+      settings_menu_51: 1945957468
+      settings_menu_52: -18493076
+      settings_menu_53: 1222353740
+      settings_menu_54: -1284850056
+      settings_menu_55: -247261115
+      settings_menu_56: 1418866818
+      settings_menu_57: 1758332228
+      settings_menu_58: 310998434
+      settings_menu_59: 1182823813
+      settings_menu_6: 29484612
+      settings_menu_60: 1752081175
+      settings_menu_61: 1448330347
+      settings_menu_62: 297909269
+      settings_menu_63: 1424436748
+      settings_menu_64: -1639339449
+      settings_menu_65: 1033692317
+      settings_menu_66: -1311559182
+      settings_menu_67: 1298775230
+      settings_menu_68: 932773286
+      settings_menu_69: -1641141800
+      settings_menu_7: 501841594
+      settings_menu_70: 1634661416
+      settings_menu_71: -1564074512
+      settings_menu_72: -1119100594
+      settings_menu_73: -1838672102
+      settings_menu_74: -639721449
+      settings_menu_75: 1535725980
+      settings_menu_76: -606032542
+      settings_menu_77: 482454032
+      settings_menu_78: -508725035
+      settings_menu_79: -1582872551
+      settings_menu_8: 1453511841
+      settings_menu_80: 2002278533
+      settings_menu_81: 2042108074
+      settings_menu_82: -1347397810
+      settings_menu_83: 880562349
+      settings_menu_84: -1812828275
+      settings_menu_85: 465486980
+      settings_menu_86: -1282674566
+      settings_menu_87: -1921112799
+      settings_menu_88: -1363236358
+      settings_menu_89: -339625060
+      settings_menu_9: -1485277124
+      settings_menu_90: -140430715
+      settings_menu_91: 772326576
+      settings_menu_92: 1969513215
+      settings_menu_93: -1141006761
+      settings_menu_94: -1898848444
+      settings_menu_95: -1724762603
+      settings_menu_96: -2127273626
+      settings_menu_97: -1920388542
+      settings_menu_98: 76792018
+      settings_menu_99: -883772843
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

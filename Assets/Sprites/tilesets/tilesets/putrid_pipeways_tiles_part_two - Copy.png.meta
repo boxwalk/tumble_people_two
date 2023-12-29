@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: f73d9751c3366724ca474c67c9a1e1f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7051b0bd32dfdb40b85e42bd859caa1
+      internalID: -90047250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1243704baf5eb74a90a20a6e3116b75
+      internalID: -518150312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32c11b3c4ce7244a6a5d22566833a9
+      internalID: -82333290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce591eca6956f1c4ba0572aa3b55ae76
+      internalID: -226673914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb6050a30986f428911b91ecb4eb11
+      internalID: 1438733101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13355379d11465441b57b011cc701332
+      internalID: -874149679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aac3af2e971144aa5de879ee3ecbbb
+      internalID: -1240193114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37fbdfe3b990cc468f742a69d5304cd
+      internalID: 1273487208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf32daaccda39f4b9e71eca5e9617ef
+      internalID: 1254306057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4974
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc21c9113d7124a87c472ee63fc35a
+      internalID: 580662579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dcfa84165cc8b44961ad8f2ba115c3
+      internalID: -1805548961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d42e1aa0d6474c895de1db9a73314
+      internalID: 531941158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f035154b5ab14aaa5456ae75b4b30
+      internalID: -531643361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f09af80bfa9f244b9c9aa819c0502f6
+      internalID: -1934421392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c617ee9b7b74f149b605a85f6800198
+      internalID: -524599715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3ce574d8e19040b25e368211303f2
+      internalID: 1788990440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9419abccb66a74b877e8d69b31ca16
+      internalID: 1682967766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8bf55d9811bef4e9aa24c6915e20c4
+      internalID: -524638076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4993cf54b0b434b8bacb37f7e75fd9
+      internalID: -1637738519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d19dc6719049a4598e8b38515bf395
+      internalID: 756005051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: putrid_pipeways_tiles_part_two - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957febcc90dad4045992d21994833b8d
+      internalID: -1837740868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      putrid_pipeways_tiles_part_two - Copy_0: -90047250
+      putrid_pipeways_tiles_part_two - Copy_1: -518150312
+      putrid_pipeways_tiles_part_two - Copy_10: 580662579
+      putrid_pipeways_tiles_part_two - Copy_11: -1041965147
+      putrid_pipeways_tiles_part_two - Copy_12: 1783089010
+      putrid_pipeways_tiles_part_two - Copy_13: -1907050534
+      putrid_pipeways_tiles_part_two - Copy_14: 1213636057
+      putrid_pipeways_tiles_part_two - Copy_15: -421146608
+      putrid_pipeways_tiles_part_two - Copy_16: 2128997224
+      putrid_pipeways_tiles_part_two - Copy_17: 922281784
+      putrid_pipeways_tiles_part_two - Copy_18: -1805548961
+      putrid_pipeways_tiles_part_two - Copy_19: -754642062
+      putrid_pipeways_tiles_part_two - Copy_2: -82333290
+      putrid_pipeways_tiles_part_two - Copy_20: 1212571255
+      putrid_pipeways_tiles_part_two - Copy_21: -718064215
+      putrid_pipeways_tiles_part_two - Copy_22: 1256240963
+      putrid_pipeways_tiles_part_two - Copy_23: -1851863170
+      putrid_pipeways_tiles_part_two - Copy_24: 775649338
+      putrid_pipeways_tiles_part_two - Copy_25: 840237892
+      putrid_pipeways_tiles_part_two - Copy_26: 531941158
+      putrid_pipeways_tiles_part_two - Copy_27: -531643361
+      putrid_pipeways_tiles_part_two - Copy_28: -1934421392
+      putrid_pipeways_tiles_part_two - Copy_29: -524599715
+      putrid_pipeways_tiles_part_two - Copy_3: -226673914
+      putrid_pipeways_tiles_part_two - Copy_30: 1788990440
+      putrid_pipeways_tiles_part_two - Copy_31: -1258585542
+      putrid_pipeways_tiles_part_two - Copy_32: 1682967766
+      putrid_pipeways_tiles_part_two - Copy_33: -524638076
+      putrid_pipeways_tiles_part_two - Copy_34: -1637738519
+      putrid_pipeways_tiles_part_two - Copy_35: 756005051
+      putrid_pipeways_tiles_part_two - Copy_36: -1837740868
+      putrid_pipeways_tiles_part_two - Copy_37: 1841784324
+      putrid_pipeways_tiles_part_two - Copy_38: -1146075414
+      putrid_pipeways_tiles_part_two - Copy_39: 1871588000
+      putrid_pipeways_tiles_part_two - Copy_4: 1438733101
+      putrid_pipeways_tiles_part_two - Copy_40: 141606527
+      putrid_pipeways_tiles_part_two - Copy_41: -1853487107
+      putrid_pipeways_tiles_part_two - Copy_42: 295331793
+      putrid_pipeways_tiles_part_two - Copy_43: -1667651798
+      putrid_pipeways_tiles_part_two - Copy_44: -2131046634
+      putrid_pipeways_tiles_part_two - Copy_45: 192132191
+      putrid_pipeways_tiles_part_two - Copy_46: -1665032666
+      putrid_pipeways_tiles_part_two - Copy_47: -688364039
+      putrid_pipeways_tiles_part_two - Copy_48: 1975811482
+      putrid_pipeways_tiles_part_two - Copy_49: -614202303
+      putrid_pipeways_tiles_part_two - Copy_5: -1132604442
+      putrid_pipeways_tiles_part_two - Copy_50: 637060451
+      putrid_pipeways_tiles_part_two - Copy_51: 172411008
+      putrid_pipeways_tiles_part_two - Copy_52: -896941764
+      putrid_pipeways_tiles_part_two - Copy_53: 1711792244
+      putrid_pipeways_tiles_part_two - Copy_54: -93969194
+      putrid_pipeways_tiles_part_two - Copy_55: 396528494
+      putrid_pipeways_tiles_part_two - Copy_56: 1189069499
+      putrid_pipeways_tiles_part_two - Copy_57: -328822114
+      putrid_pipeways_tiles_part_two - Copy_58: 1930840074
+      putrid_pipeways_tiles_part_two - Copy_59: 486235204
+      putrid_pipeways_tiles_part_two - Copy_6: -874149679
+      putrid_pipeways_tiles_part_two - Copy_60: -688170321
+      putrid_pipeways_tiles_part_two - Copy_61: -262010780
+      putrid_pipeways_tiles_part_two - Copy_62: 1631265727
+      putrid_pipeways_tiles_part_two - Copy_63: 948415450
+      putrid_pipeways_tiles_part_two - Copy_64: 1847816112
+      putrid_pipeways_tiles_part_two - Copy_65: 408388166
+      putrid_pipeways_tiles_part_two - Copy_66: 1550506232
+      putrid_pipeways_tiles_part_two - Copy_67: 564460485
+      putrid_pipeways_tiles_part_two - Copy_68: 652853721
+      putrid_pipeways_tiles_part_two - Copy_69: -1675103940
+      putrid_pipeways_tiles_part_two - Copy_7: -1240193114
+      putrid_pipeways_tiles_part_two - Copy_70: 181048729
+      putrid_pipeways_tiles_part_two - Copy_71: -1870659606
+      putrid_pipeways_tiles_part_two - Copy_72: 2056311463
+      putrid_pipeways_tiles_part_two - Copy_73: -684723139
+      putrid_pipeways_tiles_part_two - Copy_74: 1912919267
+      putrid_pipeways_tiles_part_two - Copy_75: 646277969
+      putrid_pipeways_tiles_part_two - Copy_76: 2033739279
+      putrid_pipeways_tiles_part_two - Copy_8: 1273487208
+      putrid_pipeways_tiles_part_two - Copy_9: 1254306057
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

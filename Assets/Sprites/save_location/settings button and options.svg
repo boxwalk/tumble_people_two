@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840mm"
+   height="2160mm"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="settings button and options.svg"
+   inkscape:export-filename="settings_menu.png"
+   inkscape:export-xdpi="96.096664"
+   inkscape:export-ydpi="96.096664"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.056568542"
+     inkscape:cx="6461.1882"
+     inkscape:cy="3959.798"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="-5771.9298"
+       y="2894.7368"
+       width="122.80702"
+       height="17.54386"
+       id="rect19742" />
+    <rect
+       x="-2087.7193"
+       y="6000"
+       width="245.61404"
+       height="17.54386"
+       id="rect15206" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text15204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';white-space:pre;shape-inside:url(#rect15206);display:inline;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:75.5906;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text19740"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';white-space:pre;shape-inside:url(#rect19742);display:inline;fill:#dd55ff;fill-opacity:1;stroke:none;stroke-width:75.5906;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="CHaracters"
+     transform="translate(-32.740522,-154.34815)">
+    <rect
+       style="fill:#ff0066;stroke:#000000;stroke-width:8.70036"
+       id="rect27153"
+       width="291.29959"
+       height="291.29965"
+       x="64.752098"
+       y="1984.5059"
+       ry="48.471375" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7421"
+       width="43.408203"
+       height="47.542316"
+       x="190.457"
+       y="2005.8113"
+       ry="0" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7470"
+       width="43.408203"
+       height="47.542316"
+       x="190.457"
+       y="2210.8633"
+       ry="0" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7472"
+       width="43.408203"
+       height="47.542316"
+       x="-2149.6785"
+       y="80.902969"
+       ry="0"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7474"
+       width="43.408203"
+       height="47.542316"
+       x="-2149.6785"
+       y="292.56964"
+       ry="0"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7476"
+       width="43.408203"
+       height="47.542316"
+       x="-1661.1136"
+       y="-1292.876"
+       ry="0"
+       transform="rotate(-135.64337)" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7478"
+       width="43.408203"
+       height="47.542316"
+       x="-1354.28"
+       y="-1583.6439"
+       ry="0"
+       transform="matrix(0.71500208,-0.69912232,-0.69912232,-0.71500208,0,0)" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7480"
+       width="43.408203"
+       height="47.542316"
+       x="1615.2502"
+       y="1463.9797"
+       ry="0"
+       transform="rotate(44.35663)" />
+    <rect
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect7482"
+       width="43.408203"
+       height="47.542316"
+       x="1317.6606"
+       y="1765.7063"
+       ry="0"
+       transform="matrix(-0.71500208,0.69912232,0.69912232,0.71500208,0,0)" />
+    <circle
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:25;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="ellipse7353"
+       cx="209.65033"
+       cy="2133.1558"
+       r="85.639458" />
+    <ellipse
+       style="fill:#ff0066;fill-opacity:1;stroke:#000000;stroke-width:14.0001;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="path7144"
+       cx="208.5798"
+       cy="2132.0559"
+       rx="39.965069"
+       ry="39.965088" />
+    <rect
+       style="fill:#ff9ec5;fill-opacity:1;stroke:none;stroke-width:23.3896;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect18905"
+       width="3399.9932"
+       height="229.18362"
+       x="259.13553"
+       y="612.71539"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:158.75px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#000000;stroke:none;stroke-width:1402.18"
+       x="275.59592"
+       y="820.12531"
+       id="text27462"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:158.75px;fill:#000000;stroke:none;stroke-width:1402.18"
+         x="275.59592"
+         y="820.12531"
+         id="tspan28606">BEGINNER MODE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#ff0066;fill-opacity:1;stroke:none;stroke-width:1402.18"
+       x="265.3031"
+       y="1032.8905"
+       id="text28614"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:105.833px;fill:#ff0066;fill-opacity:1;stroke:none;stroke-width:1402.18"
+         x="265.3031"
+         y="1032.8905"
+         id="tspan28612">HIGHLY RECOMMENDED FOR NEW PLAYERS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.5556px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1402.18"
+       x="272.00595"
+       y="1125.9038"
+       id="text28960"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:70.5556px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1402.18"
+         x="272.00595"
+         y="1125.9038"
+         id="tspan28958">MAKES A FEW CHALLENGING CHECKPOINTS EASIER - MAKES THE GAME MUCH MORE FUN!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#ff0066;fill-opacity:1;stroke:none;stroke-width:1402.18"
+       x="255.9201"
+       y="1913.1617"
+       id="text28614-0"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:105.833px;fill:#ff0066;fill-opacity:1;stroke:none;stroke-width:1402.18"
+         x="255.9201"
+         y="1913.1617"
+         id="tspan28612-1">STRUGGLE WITH WALLJUMPING? THIS IS FOR YOU!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:70.5556px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1402.18"
+       x="262.62299"
+       y="2006.175"
+       id="text28960-0"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:70.5556px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1402.18"
+         x="262.62299"
+         y="2006.175"
+         id="tspan28958-6">MORE RELIABLE WALLJUMP HITBOX AND AN INDICATOR WHILE WALLJUMPING! SUPER HELPFUL!  </tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33869"
+       width="333.25168"
+       height="127.45415"
+       x="3234.2952"
+       y="659.48755"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:17.3123;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33871"
+       width="130.96207"
+       height="167.21049"
+       x="3230.6943"
+       y="639.32568" />
+    <rect
+       style="fill:#ff9ec5;fill-opacity:1;stroke:none;stroke-width:23.3896;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33983"
+       width="3399.9932"
+       height="229.18362"
+       x="259.13553"
+       y="285.31021"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:158.75px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#000000;stroke:none;stroke-width:1402.18"
+       x="275.59592"
+       y="477.44458"
+       id="text33987"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:158.75px;fill:#000000;stroke:none;stroke-width:1402.18"
+         x="275.59592"
+         y="477.44458"
+         id="tspan33985">BEGINNER MODE</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33989"
+       width="333.25168"
+       height="127.45415"
+       x="3234.2952"
+       y="332.08237"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:17.3123;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33991"
+       width="130.96207"
+       height="167.21049"
+       x="3442.3384"
+       y="311.92014" />
+    <rect
+       style="fill:#ff9ec5;fill-opacity:1;stroke:none;stroke-width:23.3896;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect18905-4"
+       width="3399.9932"
+       height="229.18362"
+       x="267.50949"
+       y="1489.9954"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:158.75px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#000000;stroke:none;stroke-width:1402.18"
+       x="283.59659"
+       y="1738.3361"
+       id="text27462-3"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:158.75px;fill:#000000;stroke:none;stroke-width:1402.18"
+         x="283.59659"
+         y="1738.3361"
+         id="tspan28606-7">BETTER WALLJUMP</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33869-5"
+       width="333.25168"
+       height="127.45415"
+       x="3242.6692"
+       y="1536.7676"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:17.3123;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33871-1"
+       width="130.96207"
+       height="167.21049"
+       x="3239.0681"
+       y="1516.6057" />
+    <rect
+       style="fill:#ff9ec5;fill-opacity:1;stroke:none;stroke-width:23.3896;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33983-2"
+       width="3399.9932"
+       height="229.18362"
+       x="267.50949"
+       y="1162.5902"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:158.75px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';fill:#000000;stroke:none;stroke-width:1402.18"
+       x="283.59659"
+       y="1395.6553"
+       id="text33987-0"
+       transform="scale(1.0466564,0.95542338)"><tspan
+         sodipodi:role="line"
+         style="font-size:158.75px;fill:#000000;stroke:none;stroke-width:1402.18"
+         x="283.59659"
+         y="1395.6553"
+         id="tspan33985-1">BETTER WALLJUMP</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33989-0"
+       width="333.25168"
+       height="127.45415"
+       x="3242.6692"
+       y="1209.3624"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:17.3123;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect33991-7"
+       width="130.96207"
+       height="167.21049"
+       x="3450.7122"
+       y="1189.2002" />
+  </g>
+</svg>

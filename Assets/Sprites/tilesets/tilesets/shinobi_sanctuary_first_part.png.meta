@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: 761a6938c23752243ba568082f3d1436
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e07a75b98b9d4fb24fb53504b4d6d
+      internalID: -1646405698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361533837f3e2414ea055901d5a1d8e6
+      internalID: -1071440165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea2dfbf5a1243845a7f9b7f40596811
+      internalID: 237519125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_5
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 5361
+        width: 386
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f00eb697edaa474b9bd1823c2ed35ba
+      internalID: -231204758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_6
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bbd2f52b8b42141bb760cbeedb5b4e
+      internalID: 2045793434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ab057f09a9fe449baf29c6f361dcb9
+      internalID: -1919537852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e4b69c5ea9da489975142b6a32ff0
+      internalID: -1342032619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a13719f15b6b843836f8a72236a450
+      internalID: 373049110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d47105383a117d419c43d9b48fa406f
+      internalID: 1137678779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe84fdb26eeb043a927971abdc95e5
+      internalID: -662640405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_24
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c51ba87f6e37f844b2982e61b82a917
+      internalID: -1507211042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_25
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bccc2866cae9e1408993125d2961e37
+      internalID: 1690518740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_26
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5520275c86e6b6c489c22c8eb4343689
+      internalID: -909048430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_27
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58536cc0250feb4c8b73ab67bcdac2c
+      internalID: -1695563033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7c822c22dce1940bd1071016834981
+      internalID: 1367066737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_30
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df226f2715a1e4c8b0c1df463f29ab
+      internalID: -1575753418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_31
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfcb05a00ba96a49b208e0a1cc04c08
+      internalID: 1111508658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_32
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81407ded58191440a74b5e97a0115fc
+      internalID: -1621032274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_33
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f030348baf5a44cb7bbf3b3cc96d65
+      internalID: 1905331900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_34
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069387253b5f0a944a214517eb391991
+      internalID: 682705097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_35
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d853f242d2e243a035faf3cdded5d
+      internalID: -1498909993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_36
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 4200
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69860d684cc58488006146829d4af9
+      internalID: -1982388796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bafb7d7351d3245a648e6bc54e5397
+      internalID: -1706313329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_48
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecad8852d495134c919ee5025c8ef15
+      internalID: 1073825720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_49
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e52d1de1570f343a7f7c064fe07872
+      internalID: 1672923198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_50
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8daae20b508f4db39510d5fa699fc
+      internalID: -1440789700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_51
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a1386d25d4f3349b30c5901ece8a99
+      internalID: 436286502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_52
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65282de76e617468d31a4381a7a9b6
+      internalID: -308797780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_53
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc80a440e4d454aba43b4c2bb3cd9f
+      internalID: -1904560833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_54
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 3426
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b8f763864df84cb4590be79a27a0d
+      internalID: -866286501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43a2c25f9609f4448c0735adb056df4
+      internalID: -432940359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad954068eb96f0844835d5596a7545df
+      internalID: -1503556994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_58
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0ceeb540ff0e40b2a2b0392b2bf57
+      internalID: 1794849353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_59
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff00839a61f82e41953456a2aae6502
+      internalID: 883977681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_60
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e95ad34109727c4ea70c0aa7b65f6e9
+      internalID: -52202537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_61
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f965a17d1133634fa361d04935d9fa6
+      internalID: -470572979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_62
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bce0144095488c4ca5e46698f073c18
+      internalID: -1560795746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_63
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 3039
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474504ccf6e9724594ba2ccd69b3d28
+      internalID: 386535742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2273
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc37f81585b6c4b94eb6a5862ef78b
+      internalID: -697555476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shinobi_sanctuary_first_part_76
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2265
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332ecc5d348e27046ba1c2eceded2e1a
+      internalID: 306706068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shinobi_sanctuary_first_part_0: -1646405698
+      shinobi_sanctuary_first_part_1: -1256742451
+      shinobi_sanctuary_first_part_10: -1963694377
+      shinobi_sanctuary_first_part_11: -1599444413
+      shinobi_sanctuary_first_part_12: -770727290
+      shinobi_sanctuary_first_part_13: -229425745
+      shinobi_sanctuary_first_part_14: -1984984190
+      shinobi_sanctuary_first_part_15: 1846467288
+      shinobi_sanctuary_first_part_16: -392481215
+      shinobi_sanctuary_first_part_17: 665099657
+      shinobi_sanctuary_first_part_18: 9678728
+      shinobi_sanctuary_first_part_19: 473289456
+      shinobi_sanctuary_first_part_2: -1071440165
+      shinobi_sanctuary_first_part_20: -1342032619
+      shinobi_sanctuary_first_part_21: 373049110
+      shinobi_sanctuary_first_part_22: 1137678779
+      shinobi_sanctuary_first_part_23: -662640405
+      shinobi_sanctuary_first_part_24: -1507211042
+      shinobi_sanctuary_first_part_25: 1690518740
+      shinobi_sanctuary_first_part_26: -909048430
+      shinobi_sanctuary_first_part_27: -1695563033
+      shinobi_sanctuary_first_part_28: 253204385
+      shinobi_sanctuary_first_part_29: 1367066737
+      shinobi_sanctuary_first_part_3: -329874261
+      shinobi_sanctuary_first_part_30: -1575753418
+      shinobi_sanctuary_first_part_31: 1111508658
+      shinobi_sanctuary_first_part_32: -1621032274
+      shinobi_sanctuary_first_part_33: 1905331900
+      shinobi_sanctuary_first_part_34: 682705097
+      shinobi_sanctuary_first_part_35: -1498909993
+      shinobi_sanctuary_first_part_36: -1982388796
+      shinobi_sanctuary_first_part_37: 303967116
+      shinobi_sanctuary_first_part_38: -1358481680
+      shinobi_sanctuary_first_part_39: 1957206775
+      shinobi_sanctuary_first_part_4: 237519125
+      shinobi_sanctuary_first_part_40: 643507250
+      shinobi_sanctuary_first_part_41: 1287920580
+      shinobi_sanctuary_first_part_42: 1147628012
+      shinobi_sanctuary_first_part_43: -861443349
+      shinobi_sanctuary_first_part_44: 1732730504
+      shinobi_sanctuary_first_part_45: -1563951396
+      shinobi_sanctuary_first_part_46: 126465191
+      shinobi_sanctuary_first_part_47: -1706313329
+      shinobi_sanctuary_first_part_48: 1073825720
+      shinobi_sanctuary_first_part_49: 1672923198
+      shinobi_sanctuary_first_part_5: -231204758
+      shinobi_sanctuary_first_part_50: -1440789700
+      shinobi_sanctuary_first_part_51: 436286502
+      shinobi_sanctuary_first_part_52: -308797780
+      shinobi_sanctuary_first_part_53: -1904560833
+      shinobi_sanctuary_first_part_54: -866286501
+      shinobi_sanctuary_first_part_55: -884670012
+      shinobi_sanctuary_first_part_56: -432940359
+      shinobi_sanctuary_first_part_57: -1503556994
+      shinobi_sanctuary_first_part_58: 1794849353
+      shinobi_sanctuary_first_part_59: 883977681
+      shinobi_sanctuary_first_part_6: 2045793434
+      shinobi_sanctuary_first_part_60: -52202537
+      shinobi_sanctuary_first_part_61: -470572979
+      shinobi_sanctuary_first_part_62: -1560795746
+      shinobi_sanctuary_first_part_63: 386535742
+      shinobi_sanctuary_first_part_64: -657248458
+      shinobi_sanctuary_first_part_65: 850518136
+      shinobi_sanctuary_first_part_66: 1937738363
+      shinobi_sanctuary_first_part_67: 1890327548
+      shinobi_sanctuary_first_part_68: -1412534060
+      shinobi_sanctuary_first_part_69: 1181561507
+      shinobi_sanctuary_first_part_7: -1072691475
+      shinobi_sanctuary_first_part_70: -551816948
+      shinobi_sanctuary_first_part_71: 1448976007
+      shinobi_sanctuary_first_part_72: 952009043
+      shinobi_sanctuary_first_part_73: 2090784574
+      shinobi_sanctuary_first_part_74: -697555476
+      shinobi_sanctuary_first_part_75: 1230439837
+      shinobi_sanctuary_first_part_76: 306706068
+      shinobi_sanctuary_first_part_77: -1591593772
+      shinobi_sanctuary_first_part_78: -1954915480
+      shinobi_sanctuary_first_part_79: -80893472
+      shinobi_sanctuary_first_part_8: -1919537852
+      shinobi_sanctuary_first_part_80: 681542609
+      shinobi_sanctuary_first_part_81: -2007127892
+      shinobi_sanctuary_first_part_9: -620016629
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

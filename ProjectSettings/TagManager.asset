@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kill
+  - respawn_point
+  - prefab
+  - UI
+  - main_menu
+  - pre_menu
+  - ragdoll_destroy
+  - dropper
+  - map_display
+  - round_display
+  - reset_button
+  - checkpoint_counter
+  - enemy_point
+  - enemy_respawn
+  - enemy_kill
+  - qualified_counter
+  - victory screen
+  - lose screen
+  - skin
+  - map
+  - skyline
+  - raceway
+  - bouncy
+  - moving_laser_one
+  - on_off_laser_one
+  - moving_saw_one
+  - moving_platform_one
+  - wind
+  - boost
+  - down_wind
+  - boost_controller
+  - moving_saw_two
+  - shinobi_moving_platform
+  - shinobi
+  - ascent
+  - wall_boost
+  - flying_machine
+  - autumn_platform
+  - autumn_saw_one
+  - autumn_saw_two
+  - beginner_platform_one
+  - beginner_platform_two
+  - pipeway
+  - dark
+  - dark_cam
+  - ice
+  - submarine
+  - water
+  - submarine_special
+  - remove_submarine
+  - submarine_special_two
+  - pipe_blast_one
+  - pipeway_laser
+  - pipeway_saw
+  - tilemap
+  - foreground
+  - putrid_beginner_spikes_remove
+  - putrid_beginner_spikes_add
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Slippy
+  - Enemy
+  - Player
+  - enemy_points
+  - barriers
+  - frictionless
+  - Post processing
+  - Enemy only
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 9dbbca94c47d6734cb0800e2ac2b6e02
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456392611187d74fb9c0bdaf8470a67
+      internalID: -356367557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b55d204b8049f428eaea79857ca0db
+      internalID: 1884842881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cdd92e54a0c5446b5b63417b1ee397
+      internalID: -712337825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bae8c1b1dc4a446890156ae894593a
+      internalID: 1713954367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece21dc1d883c240967c5c766825fb4
+      internalID: -1780958220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfe1daf6061ca84c818a344a3ba88e3
+      internalID: -560502906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed34851cf4b9643a760961a65fb0e0
+      internalID: -37040946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648982b3ffac0242ad13187fd17cd67
+      internalID: -1528056747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329ecaecb3dbcc14ca5aaaef4abf4a35
+      internalID: 140444100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16093ba4e35b9f7488affe9c2754d1d5
+      internalID: 1064308673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3783c1edb256da49a35f6fbb79cd5ff
+      internalID: -1194172372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f726fcb65f7bfa40b97fdbfe660ad65
+      internalID: 1711831862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c21fb056830fe24ca04fbe7d8388437
+      internalID: 1054802743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2246239496c0d4e9af2cced2200377
+      internalID: -583315289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735f98f01d6a6b4db995390c68d15da
+      internalID: 1802454570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: autumn_ascent_part_two_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5342f67a0e154aa14fba93b7fce30
+      internalID: -261200819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      autumn_ascent_part_two_tiles_0: -356367557
+      autumn_ascent_part_two_tiles_1: -390902474
+      autumn_ascent_part_two_tiles_10: 415080659
+      autumn_ascent_part_two_tiles_11: 2059296715
+      autumn_ascent_part_two_tiles_12: 1462605206
+      autumn_ascent_part_two_tiles_13: 1372368697
+      autumn_ascent_part_two_tiles_14: 580255055
+      autumn_ascent_part_two_tiles_15: 26296196
+      autumn_ascent_part_two_tiles_16: -294305681
+      autumn_ascent_part_two_tiles_17: 2091783094
+      autumn_ascent_part_two_tiles_18: -1852067759
+      autumn_ascent_part_two_tiles_19: 427828270
+      autumn_ascent_part_two_tiles_2: 1884842881
+      autumn_ascent_part_two_tiles_20: -560502906
+      autumn_ascent_part_two_tiles_21: 1839925888
+      autumn_ascent_part_two_tiles_22: -37040946
+      autumn_ascent_part_two_tiles_23: -1351534023
+      autumn_ascent_part_two_tiles_24: -1528056747
+      autumn_ascent_part_two_tiles_25: -576844525
+      autumn_ascent_part_two_tiles_26: 140444100
+      autumn_ascent_part_two_tiles_27: 2011686939
+      autumn_ascent_part_two_tiles_28: 1064308673
+      autumn_ascent_part_two_tiles_29: -1716053739
+      autumn_ascent_part_two_tiles_3: 1411328957
+      autumn_ascent_part_two_tiles_30: -1157018858
+      autumn_ascent_part_two_tiles_31: 1238744880
+      autumn_ascent_part_two_tiles_32: -788002130
+      autumn_ascent_part_two_tiles_33: 1963807672
+      autumn_ascent_part_two_tiles_34: 212294438
+      autumn_ascent_part_two_tiles_35: -2106921438
+      autumn_ascent_part_two_tiles_36: 1617440132
+      autumn_ascent_part_two_tiles_37: 1411353495
+      autumn_ascent_part_two_tiles_38: -1986823374
+      autumn_ascent_part_two_tiles_39: 1569477121
+      autumn_ascent_part_two_tiles_4: -712337825
+      autumn_ascent_part_two_tiles_40: -1194172372
+      autumn_ascent_part_two_tiles_41: 1978271591
+      autumn_ascent_part_two_tiles_42: 1711831862
+      autumn_ascent_part_two_tiles_43: 1577371857
+      autumn_ascent_part_two_tiles_44: 1054802743
+      autumn_ascent_part_two_tiles_45: -583315289
+      autumn_ascent_part_two_tiles_46: 1802454570
+      autumn_ascent_part_two_tiles_47: 638282003
+      autumn_ascent_part_two_tiles_48: -261200819
+      autumn_ascent_part_two_tiles_49: -1268729534
+      autumn_ascent_part_two_tiles_5: -382955404
+      autumn_ascent_part_two_tiles_50: -1324440559
+      autumn_ascent_part_two_tiles_51: 790336304
+      autumn_ascent_part_two_tiles_52: -1952158167
+      autumn_ascent_part_two_tiles_53: -2114323487
+      autumn_ascent_part_two_tiles_54: -1687965546
+      autumn_ascent_part_two_tiles_55: 1117202659
+      autumn_ascent_part_two_tiles_56: -421207061
+      autumn_ascent_part_two_tiles_57: 2076162824
+      autumn_ascent_part_two_tiles_58: -431589253
+      autumn_ascent_part_two_tiles_59: 1428299453
+      autumn_ascent_part_two_tiles_6: 1713954367
+      autumn_ascent_part_two_tiles_60: 514368902
+      autumn_ascent_part_two_tiles_61: -725862114
+      autumn_ascent_part_two_tiles_62: -764348617
+      autumn_ascent_part_two_tiles_63: 19136316
+      autumn_ascent_part_two_tiles_64: 747738341
+      autumn_ascent_part_two_tiles_65: 692212987
+      autumn_ascent_part_two_tiles_66: -1519861381
+      autumn_ascent_part_two_tiles_67: -2036816907
+      autumn_ascent_part_two_tiles_68: 634892282
+      autumn_ascent_part_two_tiles_69: -949636680
+      autumn_ascent_part_two_tiles_7: -182895530
+      autumn_ascent_part_two_tiles_70: -650328646
+      autumn_ascent_part_two_tiles_71: -902469737
+      autumn_ascent_part_two_tiles_72: 919984982
+      autumn_ascent_part_two_tiles_73: -1846761335
+      autumn_ascent_part_two_tiles_74: -1077175522
+      autumn_ascent_part_two_tiles_75: 1450274138
+      autumn_ascent_part_two_tiles_76: -523226062
+      autumn_ascent_part_two_tiles_77: -1588204243
+      autumn_ascent_part_two_tiles_78: -1954592964
+      autumn_ascent_part_two_tiles_79: 168959193
+      autumn_ascent_part_two_tiles_8: -1780958220
+      autumn_ascent_part_two_tiles_80: 2052248893
+      autumn_ascent_part_two_tiles_81: -1556308253
+      autumn_ascent_part_two_tiles_82: 1370890273
+      autumn_ascent_part_two_tiles_83: 1381881483
+      autumn_ascent_part_two_tiles_84: -472177938
+      autumn_ascent_part_two_tiles_85: -193723394
+      autumn_ascent_part_two_tiles_86: 2016016865
+      autumn_ascent_part_two_tiles_87: 65685427
+      autumn_ascent_part_two_tiles_88: -1673818578
+      autumn_ascent_part_two_tiles_89: 1835959086
+      autumn_ascent_part_two_tiles_9: -1981755859
+      autumn_ascent_part_two_tiles_90: -116105654
+      autumn_ascent_part_two_tiles_91: 1009413525
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

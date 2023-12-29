@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840mm"
+   height="2160mm"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="arrow_and_checkpoint_counter.svg"
+   inkscape:export-filename="arrow_and_checkpoint_counter.png"
+   inkscape:export-xdpi="96.096664"
+   inkscape:export-ydpi="96.096664"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.045322145"
+     inkscape:cx="7358.4337"
+     inkscape:cy="6464.8308"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:18.4076"
+       id="rect3024"
+       width="3604.6294"
+       height="510.52539"
+       x="35.599625"
+       y="39.727596" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:4.29169"
+       d="m 1333.9459,1237.6216 c 8.6021,-11.6757 258.061,-303.56757 258.061,-303.56757 l 238.7064,283.13517 h -118.278 l 2.1506,481.6216 -281.7166,-2.9189 6.4515,-467.0271 z"
+       id="path3416" />
+  </g>
+</svg>

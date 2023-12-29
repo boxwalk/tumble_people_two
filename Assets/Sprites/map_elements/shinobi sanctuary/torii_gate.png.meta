@@ -1,0 +1,1861 @@
+fileFormatVersion: 2
+guid: 7a05e7a35c824404d8ef1542f51876c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: torii_gate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7357
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f7577c0d3ff04b81bec1a20d9db6e
+      internalID: 485132541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_12
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 7357
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26ed7be5debc4c4099540042f967dfe
+      internalID: 217581118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06856dc10e2c6b4ab3f7f79bf92e409
+      internalID: 640072066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0025586f09ad74a9378b5dd5a11f4c
+      internalID: 163639619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_17
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf25e26ee6900419c6a248451d7992
+      internalID: -632063954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_18
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aaca0747660f14cae3a7e7f0367079
+      internalID: 361230070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_19
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86a1d94dba5e1c43a3658161b15fee8
+      internalID: 68040010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_20
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7955f2b1a76f9f49bc7edfea5009c6b
+      internalID: -1122578260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_21
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ecc1ff770ff84f872ea225bb2c11b
+      internalID: -1901084500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_22
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70846b2048be74a815a47518c92466
+      internalID: 762661651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_23
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5823235dbc60c034c81a3d7ffce04573
+      internalID: -1997243399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_24
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ad34844901be4488c8f377603c294
+      internalID: -1927484742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_25
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8294e38e85bd04f90ccde4c12304a1
+      internalID: -1205206369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_26
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a4b873fcae6346917b94d9d17bd83
+      internalID: -1331529608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_27
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 6970
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe649ffadfa5b469e1a5062e7aa6be
+      internalID: -1578895345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_31
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6606d8282d314db5f8600d1f11f09
+      internalID: -1136488910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_32
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef65cd289bd572439669b3930052582
+      internalID: 231468580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_33
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae757486f277c47a9617960e4a7831
+      internalID: -639599237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_34
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18157d5c879fc8842b9228f8770fa0e7
+      internalID: -784603632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_35
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda1f1dba12582418670c35370f1314
+      internalID: -270236368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_36
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685d5123fab57874ca793113a6d27bbc
+      internalID: 1553999911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_37
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557192c43bfaff4b984da3b53dfa008
+      internalID: 1017738653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_38
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd06da7e6084b40a49b499efa76da2
+      internalID: 515787109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_39
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aba1582d2a45346a90f063ef1085d0
+      internalID: 550482954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_40
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3517c9e08bf0541bbcf2bc70cafa17
+      internalID: 754450837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_41
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c226cfbbd4e1419a48c6ef2307667
+      internalID: 252530748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_42
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 6583
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd5992aa9b9eeb4fb340bc979af089e
+      internalID: -275062014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d5385b92ca2204495e2ecda06e0f82
+      internalID: 678606628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_47
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458bcd5d2ef577249abad64c68984cb7
+      internalID: -1780088803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_48
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d725c45c73b844d9f75338b1ef003b
+      internalID: -17606033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_49
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee706b1d7684229479f5ec972deabe75
+      internalID: 2052013424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_50
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7186a1bae8ed694b93af3b85243a6b3
+      internalID: 344763875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_51
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b058bf7766ed274448f8ff56c04461e9
+      internalID: -1200275823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_52
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a614454c2acf1514eb880243e3b7b9ff
+      internalID: -422039976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_53
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16560f6cdb8862b4a9e2e427759d9d22
+      internalID: 2125658069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_54
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4af908e805456e4ba62cb84e7cdb8ec
+      internalID: -1422088937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_55
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee8f3513408a094b89e04eb1528fa56
+      internalID: 886828094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_56
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 6196
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278254c3d974684fbd948e7c3ee5198
+      internalID: 1298152402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83086fb9a491ce4409dc6181e6379084
+      internalID: -870582052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_62
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5403e474510af3747a5911df33abb7af
+      internalID: 2146365940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_63
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd506161c66f074298a339e487a501f
+      internalID: -424102710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_64
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a565b81390b3cb40b89727eb8ed6d99
+      internalID: -643975000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_65
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12478ef1e725d1243b6715bc52c3893c
+      internalID: -2039730927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_66
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4dfea71efc8b347a8365bf1a7cda53
+      internalID: 785283090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_67
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5d035eeeb6d8418eaa94853e51b0c
+      internalID: 358967975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_68
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd27e7a67ba8504d8ad30ec24e756d2
+      internalID: 1663233667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_69
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b61565c884d146a88d4713e7727f2
+      internalID: 1029077273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_70
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c986713df7ed6c4aa1f4bacb3929b5b
+      internalID: -841295612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_71
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 5809
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf13ebc7557a354fa523fcd1edab6fc
+      internalID: -1422705938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_77
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5422
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf6806063efaf14398595f95966e970
+      internalID: 271602865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_85
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 5422
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fadea667c620f46b8d96daceaf6105
+      internalID: -1037881468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_92
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5035
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a039fc4bdd9f1e44879a1104ece4e2b
+      internalID: -1607092710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_94
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5035
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59de0f7160546f741a4806f688282d08
+      internalID: -1509942006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_100
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 5035
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b375b79ba6bb824180be15bbef6cf80
+      internalID: 716964230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_107
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4648
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af6f74e4efe1c4f8dea792ce294eec
+      internalID: 431348393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_115
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 4648
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efffb688a16364fa001a3b3a25e17f
+      internalID: -1294822349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_122
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 4261
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe79c4d23c443e4f8a76b6f546800ad
+      internalID: -38622491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_130
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 4261
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a76f42ed191774898d919c7e68b9f9
+      internalID: -35885172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_137
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3874
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850eb2d6b6fd44e45bcb6a84d9db91a7
+      internalID: -1026863801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_145
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 3874
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d5b2c294da814fa361dcc2e34a3ed
+      internalID: -1975257964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_152
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3487
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400e47736ec7824681e0eb6450d153d
+      internalID: 921040613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_160
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 3487
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad4e39644d53c14a8239ab762b5e32c
+      internalID: 1464333557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_167
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3100
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb2e162e302d4249a1764a9674f4930
+      internalID: 2048716432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_175
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 3100
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05128cea919093e43b809e916803f071
+      internalID: -1911030520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_182
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2713
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d620b7c72ebe4174281874162d65c137
+      internalID: 571684443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_190
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2713
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd66e8536ac6afa4b9c060d4fd0055da
+      internalID: 697523866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_197
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2326
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44591744afb97645b9d88f7fd7ecae5
+      internalID: 872386124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_205
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2326
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3777ba8c51a1a4da7da10575464153
+      internalID: 765294948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: torii_gate_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1162
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0158e6f2882bfc24e9939a19c2d3a982
+      internalID: 1901127554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      torii_gate_0: 485132541
+      torii_gate_1: 1155166134
+      torii_gate_10: -731809453
+      torii_gate_100: 716964230
+      torii_gate_101: 616419548
+      torii_gate_102: 1685052531
+      torii_gate_103: 790919128
+      torii_gate_104: 316661507
+      torii_gate_105: 1386834268
+      torii_gate_106: 594792488
+      torii_gate_107: 431348393
+      torii_gate_108: -502551292
+      torii_gate_109: 655093802
+      torii_gate_11: 1631808256
+      torii_gate_110: 2104776850
+      torii_gate_111: -1238817242
+      torii_gate_112: -1199223573
+      torii_gate_113: -1459902429
+      torii_gate_114: 1544405009
+      torii_gate_115: -1294822349
+      torii_gate_116: -819068289
+      torii_gate_117: -1838720489
+      torii_gate_118: -659068565
+      torii_gate_119: -1472883754
+      torii_gate_12: 217581118
+      torii_gate_120: 1923185454
+      torii_gate_121: 1932922970
+      torii_gate_122: -38622491
+      torii_gate_123: -1218492228
+      torii_gate_124: 145974023
+      torii_gate_125: 2007754737
+      torii_gate_126: 1826881723
+      torii_gate_127: 1150340560
+      torii_gate_128: 941324566
+      torii_gate_129: 1654246795
+      torii_gate_13: 1097742678
+      torii_gate_130: -35885172
+      torii_gate_131: 511158239
+      torii_gate_132: 1816954391
+      torii_gate_133: -1899106664
+      torii_gate_134: -1323850604
+      torii_gate_135: 518893438
+      torii_gate_136: 1662978371
+      torii_gate_137: -1026863801
+      torii_gate_138: 347105250
+      torii_gate_139: -1790813711
+      torii_gate_14: -623093667
+      torii_gate_140: 306012953
+      torii_gate_141: -438551297
+      torii_gate_142: 955088305
+      torii_gate_143: 89033491
+      torii_gate_144: -248652941
+      torii_gate_145: -1975257964
+      torii_gate_146: 1298492509
+      torii_gate_147: 1887498135
+      torii_gate_148: 268092897
+      torii_gate_149: -617164899
+      torii_gate_15: 640072066
+      torii_gate_150: -1008029788
+      torii_gate_151: -1860574947
+      torii_gate_152: 921040613
+      torii_gate_153: 341325164
+      torii_gate_154: -244518938
+      torii_gate_155: -788669864
+      torii_gate_156: 1478205504
+      torii_gate_157: -1229933229
+      torii_gate_158: 64832322
+      torii_gate_159: -1150549328
+      torii_gate_16: 163639619
+      torii_gate_160: 1464333557
+      torii_gate_161: 2021675454
+      torii_gate_162: 2097753608
+      torii_gate_163: -1852125872
+      torii_gate_164: 835576464
+      torii_gate_165: 1981180839
+      torii_gate_166: -36498874
+      torii_gate_167: 2048716432
+      torii_gate_168: 94684322
+      torii_gate_169: -8641420
+      torii_gate_17: -632063954
+      torii_gate_170: 2107316944
+      torii_gate_171: -1142629555
+      torii_gate_172: -1450948926
+      torii_gate_173: -1090824213
+      torii_gate_174: -904913683
+      torii_gate_175: -1911030520
+      torii_gate_176: -807411161
+      torii_gate_177: -2047953216
+      torii_gate_178: -1269113306
+      torii_gate_179: -842987009
+      torii_gate_18: 361230070
+      torii_gate_180: -822991934
+      torii_gate_181: 547020038
+      torii_gate_182: 571684443
+      torii_gate_183: -1315636139
+      torii_gate_184: -1120701820
+      torii_gate_185: -344865207
+      torii_gate_186: 1776466531
+      torii_gate_187: -291154044
+      torii_gate_188: -1491012808
+      torii_gate_189: -117755739
+      torii_gate_19: 68040010
+      torii_gate_190: 697523866
+      torii_gate_191: 1149425368
+      torii_gate_192: 112133159
+      torii_gate_193: -440746398
+      torii_gate_194: 2126161057
+      torii_gate_195: -328036409
+      torii_gate_196: -295524308
+      torii_gate_197: 872386124
+      torii_gate_198: 299496337
+      torii_gate_199: 185951263
+      torii_gate_2: 889638800
+      torii_gate_20: -1122578260
+      torii_gate_200: 1630812682
+      torii_gate_201: 1032515307
+      torii_gate_202: 482584374
+      torii_gate_203: -251359033
+      torii_gate_204: -553568928
+      torii_gate_205: 765294948
+      torii_gate_206: 1473719897
+      torii_gate_207: -1392126824
+      torii_gate_208: 469666180
+      torii_gate_209: -1448341018
+      torii_gate_21: -1901084500
+      torii_gate_210: 1423110735
+      torii_gate_211: -2021049903
+      torii_gate_212: 1445478022
+      torii_gate_213: -2116648114
+      torii_gate_214: 358838169
+      torii_gate_215: 910355262
+      torii_gate_216: -351567179
+      torii_gate_217: -583799320
+      torii_gate_218: 1192528610
+      torii_gate_219: -2100288148
+      torii_gate_22: 762661651
+      torii_gate_220: 1212063212
+      torii_gate_221: 1218788786
+      torii_gate_222: 87498549
+      torii_gate_223: 161469146
+      torii_gate_224: 387588309
+      torii_gate_225: 1901127554
+      torii_gate_226: 675292249
+      torii_gate_227: -1494265780
+      torii_gate_228: -364206709
+      torii_gate_229: -1090664526
+      torii_gate_23: -1997243399
+      torii_gate_230: -1313738197
+      torii_gate_231: -1077245174
+      torii_gate_232: -464968996
+      torii_gate_233: -1907843492
+      torii_gate_234: 1559547941
+      torii_gate_235: 741002705
+      torii_gate_236: -287338157
+      torii_gate_237: -418763369
+      torii_gate_238: -721255501
+      torii_gate_239: 252623220
+      torii_gate_24: -1927484742
+      torii_gate_240: -2140755703
+      torii_gate_241: -1835038875
+      torii_gate_242: -673309018
+      torii_gate_243: 27429989
+      torii_gate_244: -1874705074
+      torii_gate_245: -1330034578
+      torii_gate_246: 1183982887
+      torii_gate_247: 739930796
+      torii_gate_248: 334182149
+      torii_gate_249: 1235169573
+      torii_gate_25: -1205206369
+      torii_gate_250: 38082914
+      torii_gate_251: -1873830232
+      torii_gate_252: -1853002804
+      torii_gate_253: -1238125401
+      torii_gate_254: -600907183
+      torii_gate_255: -77998078
+      torii_gate_256: 246376921
+      torii_gate_257: 1198146435
+      torii_gate_258: 973940352
+      torii_gate_259: 1376825888
+      torii_gate_26: -1331529608
+      torii_gate_260: 1230772674
+      torii_gate_261: -76433975
+      torii_gate_262: 1711470535
+      torii_gate_263: -1385604201
+      torii_gate_264: -35202367
+      torii_gate_27: -1578895345
+      torii_gate_28: 1085594591
+      torii_gate_29: 611541482
+      torii_gate_3: -1062017949
+      torii_gate_30: 824755618
+      torii_gate_31: -1136488910
+      torii_gate_32: 231468580
+      torii_gate_33: -639599237
+      torii_gate_34: -784603632
+      torii_gate_35: -270236368
+      torii_gate_36: 1553999911
+      torii_gate_37: 1017738653
+      torii_gate_38: 515787109
+      torii_gate_39: 550482954
+      torii_gate_4: -231461573
+      torii_gate_40: 754450837
+      torii_gate_41: 252530748
+      torii_gate_42: -275062014
+      torii_gate_43: 1905693944
+      torii_gate_44: 689137910
+      torii_gate_45: -258435786
+      torii_gate_46: 678606628
+      torii_gate_47: -1780088803
+      torii_gate_48: -17606033
+      torii_gate_49: 2052013424
+      torii_gate_5: 602522907
+      torii_gate_50: 344763875
+      torii_gate_51: -1200275823
+      torii_gate_52: -422039976
+      torii_gate_53: 2125658069
+      torii_gate_54: -1422088937
+      torii_gate_55: 886828094
+      torii_gate_56: 1298152402
+      torii_gate_57: 271715701
+      torii_gate_58: 1995584152
+      torii_gate_59: -798290317
+      torii_gate_6: 986240209
+      torii_gate_60: -1167715885
+      torii_gate_61: -870582052
+      torii_gate_62: 2146365940
+      torii_gate_63: -424102710
+      torii_gate_64: -643975000
+      torii_gate_65: -2039730927
+      torii_gate_66: 785283090
+      torii_gate_67: 358967975
+      torii_gate_68: 1663233667
+      torii_gate_69: 1029077273
+      torii_gate_7: -658442120
+      torii_gate_70: -841295612
+      torii_gate_71: -1422705938
+      torii_gate_72: 509314424
+      torii_gate_73: 376556414
+      torii_gate_74: 1584065523
+      torii_gate_75: 722982690
+      torii_gate_76: -2094628416
+      torii_gate_77: 271602865
+      torii_gate_78: 2033295195
+      torii_gate_79: -48479465
+      torii_gate_8: 2005544685
+      torii_gate_80: -1565585503
+      torii_gate_81: -672648581
+      torii_gate_82: 474779970
+      torii_gate_83: -1616433808
+      torii_gate_84: 257317142
+      torii_gate_85: -1037881468
+      torii_gate_86: -226377932
+      torii_gate_87: -2127674828
+      torii_gate_88: -881779930
+      torii_gate_89: 180199360
+      torii_gate_9: 1981182387
+      torii_gate_90: 1234585071
+      torii_gate_91: 1716556841
+      torii_gate_92: -1607092710
+      torii_gate_93: -1401727533
+      torii_gate_94: -1509942006
+      torii_gate_95: -1534650774
+      torii_gate_96: -179515859
+      torii_gate_97: 2017530130
+      torii_gate_98: 888032409
+      torii_gate_99: -519980412
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
