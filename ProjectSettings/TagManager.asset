@@ -62,6 +62,7 @@ TagManager:
   - foreground
   - putrid_beginner_spikes_remove
   - putrid_beginner_spikes_add
+  - gateway
   layers:
   - Default
   - TransparentFX

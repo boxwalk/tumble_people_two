@@ -24,8 +24,11 @@ public class finish_hitbox : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
     private void Update()
     {
+        //make sure to comment out before build
+        /*
         if (Input.GetKeyDown(KeyCode.M))
         {
             game_controller.player_qualified = true;
@@ -38,7 +41,7 @@ public class finish_hitbox : MonoBehaviour
         {
             game_controller.is_eliminated = true;
             game_controller.eliminated();
-            Destroy(gameObject);
         }
+        */
     }
 }

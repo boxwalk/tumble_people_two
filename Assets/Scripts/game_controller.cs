@@ -17,6 +17,7 @@ public class game_controller : MonoBehaviour
     [SerializeField] private float time_to_load_main_menu;
     [HideInInspector] public bool better_walljump = false;
     [HideInInspector] public bool beginner_mode = false;
+    [HideInInspector] public bool low_def_mode = false;
     private bool settings_menu_open = false;
     [SerializeField] private List<Sprite> settings_sprites;
 
@@ -47,6 +48,7 @@ public class game_controller : MonoBehaviour
     /*[HideInInspector]*/ public List<int> positions;
     [HideInInspector] public List<int> maps_played = new List<int>();
     private map_controller map_controller;
+    [HideInInspector] public bool verified = true;
 
     private void Awake()
     {
@@ -415,6 +417,18 @@ public class game_controller : MonoBehaviour
         else
         {
             main_menu_obj.transform.GetChild(2).GetChild(0).GetChild(2).GetComponent<Image>().sprite = settings_sprites[3];
+        }
+    }
+    public void low_def_click()
+    {
+        low_def_mode = !low_def_mode;
+        if (low_def_mode)
+        {
+            main_menu_obj.transform.GetChild(2).GetChild(0).GetChild(4).GetComponent<Image>().sprite = settings_sprites[4];
+        }
+        else
+        {
+            main_menu_obj.transform.GetChild(2).GetChild(0).GetChild(4).GetComponent<Image>().sprite = settings_sprites[5];
         }
     }
 }

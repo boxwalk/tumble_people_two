@@ -99,6 +99,11 @@ public class player_respawn : MonoBehaviour
             }
         }
         */
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            game_controller.verified = false;
+            death();
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -5,7 +5,7 @@ using UnityEngine;
 public class enemy_logic : MonoBehaviour
 {
     //movement and commands variables
-    private string current_command = "none";
+    [SerializeField] private string current_command = "none";
     private player_movement player_movement;
     private float speed;
     private float jump_height;
@@ -66,6 +66,13 @@ public class enemy_logic : MonoBehaviour
     private bool former_laser_cycle = false;
     private float former_saw_pos = 0;
     private bool saw_dir_right = true;
+    private bool former_Wind;
+    private float base_wind_speed;
+    private float time_stuck = 0;
+    [SerializeField] private float time_stuck_to_delete;
+    private Vector3 former_position;
+    private bool is_fm_qualified = false;
+    private float time_vehicle_stuck;
 
     //respawning and death variables
     private List<int> respawn_points_visited = new List<int>();
@@ -151,11 +158,9 @@ public class enemy_logic : MonoBehaviour
         //initial delay
         inital_wait_time = Random.Range(0.1f, 5);
 
-
         //get reference to game_controller
         game_controller = GameObject.FindGameObjectWithTag("GameController").GetComponent<game_controller>();
         UI_controller = GameObject.FindGameObjectWithTag("UI").GetComponent<UI_controller>();
-
 
         //get references to wait requirements
         if (game_controller.map == 2)
@@ -212,6 +217,7 @@ public class enemy_logic : MonoBehaviour
             layering_update();
             putrid_pipeways_laser();
             special_shinobi_sanctuary_logic();
+            stuck_check();
         }
     }
 
@@ -499,16 +505,25 @@ public class enemy_logic : MonoBehaviour
     {
         if (is_touching_wind)
         {
+            if (!former_Wind)
+            {
+                base_wind_speed = rb.velocity.y;
+            }
             time_in_wind += Time.deltaTime;
-            float wind_velocity = Mathf.Clamp(rb.velocity.y + (time_in_wind * 2) + 0.5f, float.MinValue, max_wind_speed);
+            float wind_velocity = Mathf.Clamp(base_wind_speed + time_in_wind * 10, float.MinValue, max_wind_speed);
             rb.velocity = new Vector2(rb.velocity.x, wind_velocity);
         }
         if (is_touching_down_wind)
         {
+            if (!former_Wind)
+            {
+                base_wind_speed = rb.velocity.y;
+            }
             time_in_wind += Time.deltaTime;
-            float wind_velocity = Mathf.Clamp(rb.velocity.y + (time_in_wind * -2), -max_wind_speed * 1.5f, float.MaxValue);
+            float wind_velocity = Mathf.Clamp(base_wind_speed - (time_in_wind * 15), -max_wind_speed * 1.5f, float.MaxValue);
             rb.velocity = new Vector2(rb.velocity.x, wind_velocity);
         }
+        former_Wind = is_touching_wind || is_touching_down_wind;
     }
     private void boost_logic()
     {
@@ -1119,6 +1134,7 @@ public class enemy_logic : MonoBehaviour
             //qualified
             game_controller.players_qualified++;
             current_command = "move_left";
+            is_fm_qualified = true;
             StartCoroutine(flying_machine_command("left", Random.Range(0.2f, 1.5f)));
         }
     }
@@ -1354,5 +1370,34 @@ public class enemy_logic : MonoBehaviour
     private bool moving_saw_pipeway()
     {
         return !(moving_saw_one.position.x > -114.7f && moving_saw_one.position.x < -107.9f && !saw_dir_right);
+    }
+    private void stuck_check()
+    {
+        if((transform.position == former_position && (current_command == "move_left" || current_command == "move_right") && player_mode == "normal") ||(transform.position == former_position && player_mode == "submarine") || (transform.position == former_position && player_mode == "flying_machine" && !is_fm_qualified))
+        {
+            time_stuck += Time.deltaTime;
+            if(time_stuck > time_stuck_to_delete)
+            {
+                death();
+                time_stuck = 0;
+            }
+        }else
+        {
+            time_stuck = 0;
+        }
+        if((player_mode == "submarine" || player_mode == "flying_machine") && transform.position.x == former_position.x && (!(player_mode == "flying_machine") || (player_mode == "flying_machine" && !is_fm_qualified)))
+        {
+            time_vehicle_stuck += Time.deltaTime;
+            if (time_vehicle_stuck > 60)
+            {
+                death();
+                time_vehicle_stuck = 0;
+            }
+        }
+        else
+        {
+            time_vehicle_stuck = 0;
+        }
+        former_position = transform.position;
     }
 }

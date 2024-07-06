@@ -46,7 +46,7 @@ public class end_screen_controller : MonoBehaviour
             transform.GetChild(2).GetChild((i * 4 )+ 2).GetComponent<TextMeshProUGUI>().text = map_controller.map_library[game_controller.maps_played[i]].map_name;
             transform.GetChild(2).GetChild((i * 4) + 2).GetComponent<TextMeshProUGUI>().fontSize = map_controller.map_library[game_controller.maps_played[i]].end_screen_font_size;
             Transform temp_transform = transform.GetChild(2).GetChild((i * 4) + 2).GetComponent<Transform>();
-            temp_transform.position = new Vector2(temp_transform.position.x + map_controller.map_library[game_controller.maps_played[i]].end_screen_text_offset.x, temp_transform.position.y + map_controller.map_library[game_controller.maps_played[i]].end_screen_text_offset.y);
+            temp_transform.localPosition = new Vector2(temp_transform.localPosition.x + map_controller.map_library[game_controller.maps_played[i]].end_screen_text_offset.x, temp_transform.localPosition.y + map_controller.map_library[game_controller.maps_played[i]].end_screen_text_offset.y);
             if (game_controller.positions[i] == 0)
             {
                 transform.GetChild(2).GetChild((i*4) +3).GetComponent<TextMeshProUGUI>().text = "eliminated";

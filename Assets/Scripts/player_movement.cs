@@ -25,6 +25,7 @@ public class player_movement : MonoBehaviour
     private bool is_touching_down_wind;
     private float time_in_wind;
     public float max_wind_speed;
+    private float base_wind_speed;
     private bool touching_boost = false;
     private bool boost_active = false;
     private float boost_speed;
@@ -47,6 +48,11 @@ public class player_movement : MonoBehaviour
     private bool is_touching_subnarine_special_zone = false;
     private bool is_touching_submarine_special_zone_2 = false;
     [SerializeField] private LayerMask no_friction_mask;
+    private bool former_Wind = false;
+    private float wind_ramp_up;
+    private bool a_pressed;
+    private bool w_pressed;
+    private bool d_pressed;
 
     //movement variables
     private bool facing_right = true;
@@ -94,6 +100,7 @@ public class player_movement : MonoBehaviour
 
     void Update()
     {
+        gather_input();
         if(player_mode == "normal")
         {
             Player_movement();
@@ -117,7 +124,7 @@ public class player_movement : MonoBehaviour
         //Reset or get animations
         anim.SetBool("is_walking", false);
         //Horizontal movement
-        if (Input.GetKey(KeyCode.A) && !is_wall_jumping)
+        if (a_pressed && !is_wall_jumping)
         {
             //move left
             if (is_touching_ice && is_grounded()){
@@ -127,7 +134,7 @@ public class player_movement : MonoBehaviour
 
             anim.SetBool("is_walking", true);
         }
-        if (Input.GetKey(KeyCode.D) && !is_wall_jumping)
+        else if (d_pressed && !is_wall_jumping)
         {
             //move right
             if (is_touching_ice && is_grounded()){
@@ -138,7 +145,7 @@ public class player_movement : MonoBehaviour
                 anim.SetBool("is_walking", true);
         }
         //Jumping logic
-        if(Input.GetKeyDown(KeyCode.W) && is_grounded())
+        if(w_pressed && is_grounded())
         {
             //jump
             rb.velocity = new Vector2(rb.velocity.x, jump_height);
@@ -146,7 +153,7 @@ public class player_movement : MonoBehaviour
             jump_reset_timer = Time.time + 0.3f;
         }
         //wallslide logic
-        if (is_walled() && !is_grounded() && (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D)))
+        if (is_walled() && !is_grounded() && (a_pressed || d_pressed))
         {
             is_wall_sliding = true;
             rb.velocity = new Vector2(rb.velocity.x, Mathf.Clamp(rb.velocity.y, -wall_slide_speed, float.MaxValue)); //wall sliding formula from unity docs
@@ -158,7 +165,7 @@ public class player_movement : MonoBehaviour
             is_wall_sliding = false;
         }
         //walljump logic
-        if(is_wall_sliding && Input.GetKeyDown(KeyCode.W))
+        if(is_wall_sliding && w_pressed)
         {
             is_wall_jumping = true;
             if (is_touching_wall_boost)
@@ -168,7 +175,7 @@ public class player_movement : MonoBehaviour
             {
                 Invoke(nameof(stop_wall_jump), wall_jump_time);
             }
-            if (Input.GetKey(KeyCode.A))
+            if (a_pressed)
             {
                 if (is_touching_wall_boost)
                 {
@@ -278,7 +285,7 @@ public class player_movement : MonoBehaviour
     private void experimental_snappy_controls()
     {
         //experimental snappy test - add to "player_movement" method to make controls more snappy
-        if (!Input.GetKey(KeyCode.D) && !Input.GetKey(KeyCode.A) && !is_wall_jumping && is_grounded() && !box.IsTouchingLayers(no_friction_mask) && !is_touching_ice)
+        if (!d_pressed && !a_pressed && !is_wall_jumping && is_grounded() && !box.IsTouchingLayers(no_friction_mask) && !is_touching_ice)
         {
             rb.velocity = new Vector2(0, rb.velocity.y);
         }
@@ -300,16 +307,25 @@ public class player_movement : MonoBehaviour
     {
         if (is_touching_wind)
         {
+            if(!former_Wind)
+            {
+                base_wind_speed = rb.velocity.y;
+            }
             time_in_wind += Time.deltaTime;
-            float wind_velocity = Mathf.Clamp(rb.velocity.y + time_in_wind * 2 , float.MinValue, max_wind_speed);
+            float wind_velocity = Mathf.Clamp(base_wind_speed + time_in_wind * 10 , float.MinValue, max_wind_speed);
             rb.velocity = new Vector2(rb.velocity.x, wind_velocity);
         }
         if (is_touching_down_wind)
         {
+            if (!former_Wind)
+            {
+                base_wind_speed = rb.velocity.y;
+            }
             time_in_wind += Time.deltaTime;
-            float wind_velocity = Mathf.Clamp(rb.velocity.y + (time_in_wind * -2), -max_wind_speed*1.5f, float.MaxValue);
+            float wind_velocity = Mathf.Clamp(base_wind_speed - (time_in_wind * 15), -max_wind_speed*1.5f, float.MaxValue);
             rb.velocity = new Vector2(rb.velocity.x, wind_velocity);
         }
+        former_Wind = is_touching_wind || is_touching_down_wind;
     }
 
     private void boost_logic()
@@ -476,13 +492,13 @@ public class player_movement : MonoBehaviour
         transform.localScale = new Vector3(1, transform.localScale.y, transform.localScale.z);
 
         //up down left right
-        if (Input.GetKey(KeyCode.A))
+        if (a_pressed)
         {
             //move left
             rb.velocity = new Vector2(-flying_machine_speed , rb.velocity.y);
             anim.SetBool("flying_moving_right", false);
             anim.SetBool("flying_moving_left", true);
-        }else if (Input.GetKey(KeyCode.D))
+        }else if (d_pressed)
         {
             //move right
             rb.velocity = new Vector2(flying_machine_speed, rb.velocity.y);
@@ -494,11 +510,11 @@ public class player_movement : MonoBehaviour
             anim.SetBool("flying_moving_right", false);
             anim.SetBool("flying_moving_left", false);
         }
-        if (Input.GetKey(KeyCode.W))
+        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.Space))
         {
             //move up
             rb.velocity = new Vector2(rb.velocity.x, upward_speed);
-        }else if (Input.GetKey(KeyCode.S))
+        }else if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow))
         {
             //move down
             rb.velocity = new Vector2(rb.velocity.x, -upward_speed);
@@ -544,7 +560,7 @@ public class player_movement : MonoBehaviour
             //submarine movement
             if (submarine_blast_charged && is_touching_water)
             {
-                if (Input.GetKeyDown(KeyCode.W))
+                if (w_pressed)
                 {
                     submarine_blast_charged = false;
                     if (is_touching_subnarine_special_zone)
@@ -555,21 +571,21 @@ public class player_movement : MonoBehaviour
                     particles = Instantiate(submarine_blast_particles_A, new Vector3(transform.position.x - 1.51f, transform.position.y + 0.14f, 0f), Quaternion.identity, transform);
                     particles.transform.eulerAngles = new Vector3(0, 0, -120.524f);
                 }
-                else if (Input.GetKeyDown(KeyCode.A))
+                else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
                 {
                     submarine_blast_charged = false;
                     rb.velocity = new Vector2(-horizontal_blast_strength, rb.velocity.y);
                     GameObject particles = Instantiate(submarine_blast_particles_A, new Vector3(transform.position.x + 1.31f, transform.position.y + 0.15f, 0f), Quaternion.identity, transform);
                     particles.transform.eulerAngles = new Vector3(0, 0, -30f);
                 }
-                else if (Input.GetKeyDown(KeyCode.D))
+                else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
                 {
                     submarine_blast_charged = false;
                     rb.velocity = new Vector2(horizontal_blast_strength, rb.velocity.y);
                     GameObject particles = Instantiate(submarine_blast_particles_A, new Vector3(transform.position.x - 1.31f, transform.position.y + 0.15f, 0f), Quaternion.identity, transform);
                     particles.transform.eulerAngles = new Vector3(0, 0, 145f);
                 }
-            } else if (is_touching_subnarine_special_zone && Input.GetKeyDown(KeyCode.A) && submarine_blast_charged && !is_touching_water)
+            } else if (is_touching_subnarine_special_zone && (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow)) && submarine_blast_charged && !is_touching_water)
             {
                 submarine_blast_charged = false;
                 rb.velocity = new Vector2(-horizontal_blast_strength*2.5f, 0);
@@ -615,5 +631,11 @@ public class player_movement : MonoBehaviour
                 rb.velocity = new Vector2(rb.velocity.x, Mathf.Clamp(rb.velocity.y, -submarine_fall_max_speed, float.MaxValue));
             }
         }
+    }
+    private void gather_input()
+    {
+        a_pressed = (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow));
+        d_pressed = (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow));
+        w_pressed = (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.Space));
     }
 }

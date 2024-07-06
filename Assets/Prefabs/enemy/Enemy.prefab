@@ -1896,9 +1896,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62aef2c46d71fa341b361a874b13c053, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  current_command: none
   chance_number: 0
   min_qualified_walk_time: 0.5
   max_qualified_walk_time: 3.5
+  time_stuck_to_delete: 10
   enemy_id: 0
   skill_level: 0
   ground_check: {fileID: 8499424307078434185}
@@ -1907,7 +1909,7 @@ MonoBehaviour:
   no_friction: {fileID: 6200000, guid: 055b6a7e9244bbe4284471156793c554, type: 2}
   ground_mask:
     serializedVersion: 2
-    m_Bits: 72
+    m_Bits: 8264
   wall_mask:
     serializedVersion: 2
     m_Bits: 8

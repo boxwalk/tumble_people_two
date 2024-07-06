@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: b9a7b92291bb07f4d8e88a316b27491c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 384
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: galactic_gateway_arena_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46113352411c3314db2a43c682c2f6b6
+      internalID: 1118628913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603f4ee2bb18a4a45a9a4dac26efb1bb
+      internalID: 389656870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974b59d992aea804ba34c952b63ff53c
+      internalID: -2138004576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_6
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cec5195fb5c83409ac2ca55802a6d8
+      internalID: -729086823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5361
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935b379eb7add7c449456d15f1c67018
+      internalID: 2025682165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65de99e5869bc94aa5f8d9d0756c5b4
+      internalID: 554663341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_23
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6a304349bd224fbb1f4d6ea4abb55
+      internalID: 1390905195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_25
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 4587
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714f1ae30cb27854fa461139f2c27c7c
+      internalID: -1740830609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_35
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d850a0e3218be48ab825ab2b2ddc82
+      internalID: -496830136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galactic_gateway_arena_37
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3813
+        width: 387
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1b6f8fcebf4ac418619fee2bfde300
+      internalID: 499692821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      galactic_gateway_arena_0: 1118628913
+      galactic_gateway_arena_1: -674491724
+      galactic_gateway_arena_10: 1713732892
+      galactic_gateway_arena_11: -1408189170
+      galactic_gateway_arena_12: -1274762981
+      galactic_gateway_arena_13: -302971409
+      galactic_gateway_arena_14: -206544411
+      galactic_gateway_arena_15: -730758864
+      galactic_gateway_arena_16: -1363700091
+      galactic_gateway_arena_17: 1512248726
+      galactic_gateway_arena_18: -1191506056
+      galactic_gateway_arena_19: -1660290923
+      galactic_gateway_arena_2: 389656870
+      galactic_gateway_arena_20: 554663341
+      galactic_gateway_arena_21: -1358011003
+      galactic_gateway_arena_22: 1810747425
+      galactic_gateway_arena_23: 1390905195
+      galactic_gateway_arena_24: 1200510903
+      galactic_gateway_arena_25: -1740830609
+      galactic_gateway_arena_26: 2133990042
+      galactic_gateway_arena_27: -711809891
+      galactic_gateway_arena_28: 1203369551
+      galactic_gateway_arena_29: -1752308441
+      galactic_gateway_arena_3: 1106561433
+      galactic_gateway_arena_30: -305262372
+      galactic_gateway_arena_31: 743969387
+      galactic_gateway_arena_32: -475215695
+      galactic_gateway_arena_33: 1959955997
+      galactic_gateway_arena_34: -1111344060
+      galactic_gateway_arena_35: -496830136
+      galactic_gateway_arena_36: -925162369
+      galactic_gateway_arena_37: 499692821
+      galactic_gateway_arena_38: 777671274
+      galactic_gateway_arena_39: 873065099
+      galactic_gateway_arena_4: -2138004576
+      galactic_gateway_arena_40: 1947440575
+      galactic_gateway_arena_41: 636902080
+      galactic_gateway_arena_42: 625386774
+      galactic_gateway_arena_43: -859346689
+      galactic_gateway_arena_44: -421825289
+      galactic_gateway_arena_45: -491850865
+      galactic_gateway_arena_46: 1360263982
+      galactic_gateway_arena_47: 2061883467
+      galactic_gateway_arena_48: 81631345
+      galactic_gateway_arena_49: -1194517905
+      galactic_gateway_arena_5: -17251753
+      galactic_gateway_arena_50: -1310566608
+      galactic_gateway_arena_51: 1686724615
+      galactic_gateway_arena_52: -830258706
+      galactic_gateway_arena_53: -1944561980
+      galactic_gateway_arena_54: 1837511857
+      galactic_gateway_arena_55: 1843307930
+      galactic_gateway_arena_56: 1282864738
+      galactic_gateway_arena_57: 14564069
+      galactic_gateway_arena_58: -514892763
+      galactic_gateway_arena_59: 1591131983
+      galactic_gateway_arena_6: -729086823
+      galactic_gateway_arena_60: 873318938
+      galactic_gateway_arena_61: -1997141784
+      galactic_gateway_arena_62: -1150649023
+      galactic_gateway_arena_63: 787109112
+      galactic_gateway_arena_7: 1973752739
+      galactic_gateway_arena_8: 2025682165
+      galactic_gateway_arena_9: -1011024814
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
